@@ -1,0 +1,7 @@
+version: 1.2
+workflows:
+ - name: Mash_DB_Prep
+   subclass: WDL
+   primaryDescriptorPath: /workflows/wf_mashDB.wdl
+   testParameterFiles:
+    - empty.json
