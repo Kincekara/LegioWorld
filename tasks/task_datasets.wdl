@@ -46,7 +46,7 @@ task download {
     datasets version | cut -d " " -f3 > VERSION
     # download seqs
     datasets download genome accession ~{accession}
-    unzip ncbi_dataset.zip
+    unzip ncbi_dataset.zip && rm ncbi_dataset.zip
     cd ncbi_dataset
     find . -name "*genomic.fna" -exec mv {} . \;
     rm -rf data
