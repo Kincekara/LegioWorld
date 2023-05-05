@@ -131,8 +131,9 @@ task generate_db {
     list=$(ls | grep ".fna")
     for i in $list
       do
-      taxon=$(head -n1 $i | cut -d " " -f2,3)   
-      mash sketch -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -I "$taxon" $i 
+      #taxon=$(head -n1 $i | cut -d " " -f2,3)
+      id=$(echo $i | grep -Eo "GCF_[0-9]+.[0-9]")
+      mash sketch -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -I $id $i 
       done
     mash sketch -o ~{name} *.msh
     # clean up

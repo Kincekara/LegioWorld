@@ -16,7 +16,7 @@ task fetch_reference {
     then
       datasets download genome accession $acc_id
       unzip ncbi_dataset.zip
-      mv $(find ncbi_dataset/data -name "$acc_id*_genomic.fna") ~{taxon}_ref.fa
+      mv $(find ncbi_dataset/data -name "*_genomic.fna") ~{taxon}_ref.fa
     fi
   >>>
 
@@ -37,7 +37,8 @@ task fetch_reference {
 
 task download {
   input {
-    String accession  
+    String accession
+    String prefix = "reference"  
     String docker = "kincekara/ncbi_datasets:v14.26.0"
   }
 
@@ -46,18 +47,19 @@ task download {
     datasets version | cut -d " " -f3 > VERSION
     # download seqs
     datasets download genome accession ~{accession}
-    unzip ncbi_dataset.zip && rm ncbi_dataset.zip
+    unzip ncbi_dataset.zip
     cd ncbi_dataset
     find . -name "*genomic.fna" -exec mv {} . \;
-    rm -rf data
-    tar -czvf reference.tar.gz *
+    tar -czvf "../~{prefix}.tar.gz" *genomic.fna
     # clean up
-    rm *genomic.fna
+    cd ..
+    rm -rf ncbi_dataset
+    rm ncbi_dataset.zip
   >>>
 
   output{
     String version = read_string("VERSION")
-    File reference = "ncbi_dataset/reference.tar.gz"
+    File reference = "~{prefix}.tar.gz"
   }
 
   runtime {
@@ -68,3 +70,41 @@ task download {
     preemptible:  0
   }
 }
+
+task download_list {
+  input {
+    File accessions_list
+    String prefix = "reference" 
+    String docker = "kincekara/ncbi_datasets:v14.26.0"
+  }
+
+  command <<<
+    # version
+    datasets version | cut -d " " -f3 > VERSION
+    # download seqs
+    accs=$(cat "~{accessions_list}" | tr -d '\r' | tr '\n' ' ')
+    datasets download genome accession $accs
+    unzip ncbi_dataset.zip
+    cd ncbi_dataset
+    find . -name "*genomic.fna" -exec mv {} . \;
+    tar -czvf "../~{prefix}.tar.gz" *genomic.fna
+    # clean up
+    cd ..
+    rm -rf ncbi_dataset
+    rm ncbi_dataset.zip
+  >>>
+
+  output{
+    String version = read_string("VERSION")
+    File reference = "~{prefix}.tar.gz"
+  }
+
+  runtime {
+    docker: "~{docker}"
+    memory: "256 MB"
+    cpu: 1
+    disks: "local-disk 100 SSD"
+    preemptible:  0
+  }
+}
+

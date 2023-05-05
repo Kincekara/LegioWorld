@@ -12,7 +12,7 @@ workflow mashDB {
   }
 
   input {
-  String accessions 
+  File accessions_list
   String? db_name = "reference"  
   Int? kmer = 25
   Int? sketch_size = 100000
@@ -22,22 +22,22 @@ workflow mashDB {
     input:    
   }
   
-  call datasets.download {
+  call datasets.download_list {
     input:
-      accession = accessions         
+      accessions_list = accessions_list         
   }  
 
   call mash.generate_db {
     input:
       name = db_name,
-      fastas = download.reference,
+      fastas = download_list.reference,
       kmer = kmer,
       sketch_size = sketch_size
   }
  
  output {
     String mashdb_version = version_capture.version
-    File reference_fastas = download. reference
+    File reference_fastas = download_list.reference
     File mash_reference = generate_db.db
   }
 }
