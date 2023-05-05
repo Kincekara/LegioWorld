@@ -1,7 +1,9 @@
 version 1.0
 
+import "../tasks/task_version.wdl" as version
 import "../tasks/task_mash.wdl" as mash
 import "../tasks/task_datasets.wdl" as datasets
+
 
 workflow mashDB {
 
@@ -14,6 +16,10 @@ workflow mashDB {
   String? db_name = "reference"  
   Int? kmer = 25
   Int? sketch_size = 100000
+  }
+
+  call version.version_capture {
+    input:    
   }
   
   call datasets.download {
@@ -30,6 +36,8 @@ workflow mashDB {
   }
  
  output {
+    String mashdb_version = version_capture.version
+    File reference_fastas = download. reference
     File mash_reference = generate_db.db
   }
 }
