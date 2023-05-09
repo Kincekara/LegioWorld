@@ -8,7 +8,7 @@ task version_capture {
     volatile: true
   }
   command {
-    version="LegioWorld v.0-dev"
+    version="LegioWorld v.0.1"
     ~{default='' 'export TZ=' + timezone}
     date +"%Y-%m-%d" > TODAY
     echo "$version" > LW_VERSION

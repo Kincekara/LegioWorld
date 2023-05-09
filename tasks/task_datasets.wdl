@@ -74,7 +74,7 @@ task download {
 task download_list {
   input {
     File dataset
-    String prefix = "reference" 
+    String prefix = "fastas" 
     String docker = "kincekara/ncbi_datasets:v14.27.0"
   }
 

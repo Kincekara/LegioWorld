@@ -16,8 +16,7 @@ workflow legioID {
   File read2
   String samplename
   Int minimum_total_reads = 30000
-  File mash_reference    
-  #File kraken2_database 
+  File mash_reference
   }
  
   call version.version_capture {
@@ -51,8 +50,8 @@ workflow legioID {
 
   output {
     # Version 
-    String legioid_version = version_capture.version
-    String legioid_analysis_date = version_capture.date    
+    String legioID_version = version_capture.version
+    String legioID_analysis_date = version_capture.date    
     # FastP
     String fastp_version = fastp_trim.fastp_version
     String fastp_docker = fastp_trim.fastp_docker
@@ -72,18 +71,6 @@ workflow legioID {
     String? phiX_ratio = bbduk.phix_ratio
     # Mash    
     String? taxon_reads = screen_reads.taxon
-    Float? taxon_reads_percent = screen_reads.ratio
-    
-    # # Kraken2
-    # String? kraken2_version = profile.kraken2_version
-    # String? kraken2_db_version = profile.kraken2_db_version
-    # String? kraken2_docker = profile.kraken2_docker
-    # File? kraken2_report = profile.kraken2_report
-    # # Bracken
-    # String? bracken_version = profile.bracken_version
-    # String? bracken_docker = profile.bracken_docker
-    # File? bracken_report = profile.bracken_report_filter
-    # String? bracken_taxon = profile.bracken_taxon
-    # Float? bracken_taxon_ratio = profile.top_taxon_ratio
+    Float? taxon_reads_percent = screen_reads.ratio    
   }
 }
