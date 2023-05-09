@@ -6,7 +6,6 @@ workflows:
    testParameterFiles:
     - empty.json
 
-workflows:
  - name: Legio_ID
    subclass: WDL
    primaryDescriptorPath: /workflows/wf_legioID.wdl
