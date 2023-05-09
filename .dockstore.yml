@@ -7,7 +7,7 @@ workflows:
     - empty.json
 
 workflows:
- - name: Legionella_Identification
+ - name: Legio_ID
    subclass: WDL
    primaryDescriptorPath: /workflows/wf_legioID.wdl
    testParameterFiles:
