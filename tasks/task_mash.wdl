@@ -31,14 +31,13 @@ task sketch_fasta {
   }
 }
 
-
 task sketch_fastq {
   input {
     String samplename
     File read1
     File? read2    
-    Int kmer = 21
-    Int sketch_size = 10000
+    Int kmer
+    Int sketch_size
     String docker = "kincekara/mash:2.3"
     Int cpu = 4
     Int memory = 8    
@@ -52,13 +51,14 @@ task sketch_fastq {
       # merge reads
       cat ~{read1} ~{read2} > ~{samplename}.merged.fastq.gz
       # sketch
-      mash sketch -p ~{cpu} -k ~{kmer} -s {sketch_size} -o ~{samplename} ~{samplename}.merged.fastq.gz
+      mash sketch -m 2 -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -I ~{samplename} -o ~{samplename}.reads ~{samplename}.merged.fastq.gz
     else
-      mash sketch -p ~{cpu} -k ~{kmer} -s {sketch_size} -o ~{samplename} ~{read1}
+      mash sketch -m 2 -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -I ~{samplename} -o ~{samplename}.reads ~{read1}
+    fi
   >>>
 
   output {    
-    File sketch = "~{samplename}.msh"
+    File sketch = "~{samplename}.reads.msh"
   }
 
   runtime {
@@ -70,9 +70,10 @@ task sketch_fastq {
   }
 }
 
-task screen {
+task screen_reads {
   input {
-    File assembly   
+    File read1
+    File? read2   
     File reference
     String samplename
     String docker = "kincekara/mash:2.3"
@@ -83,15 +84,22 @@ task screen {
   command <<<
     # version
     mash --version > VERSION
-    # screen assembly
-    mash screen -p ~{cpu} ~{reference} ~{assembly} > ~{samplename}.mash.tsv
+    if [ -f ~{read2} ]
+    then
+      cat ~{read1} ~{read2} > ~{samplename}.merged.fastq.gz
+      mash screen -p ~{cpu} ~{reference} ~{samplename}.merged.fastq.gz > ~{samplename}.screen.tsv
+    else
+      mash screen -p ~{cpu} ~{reference} ~{read1} > ~{samplename}.screen.tsv
+    fi
+
     # parse results
-    sort -gr ~{samplename}.mash.tsv > ~{samplename}.mash.sorted.tsv
-    taxon=$(awk -F "\t" 'NR==1 {print $6}' ~{samplename}.mash.sorted.tsv | sed 's/[^ ]* seqs] //' | sed 's/ \[.*//')
+    sort -gr ~{samplename}.screen.tsv > ~{samplename}.mash.sorted.tsv
+    taxon=$(awk -F "\t" 'NR==1 {print $6}' ~{samplename}.mash.sorted.tsv | cut -d " " -f4,5)
     echo $taxon > TAXON
     ratio=$(awk -F "\t" 'NR==1 {printf "%.2f\n",$1*100}' ~{samplename}.mash.sorted.tsv)
     echo $ratio > RATIO
     printf "$taxon\t$ratio\n" > ~{samplename}.top_taxon.tsv
+      
   >>>
 
   output {
@@ -127,17 +135,10 @@ task generate_db {
     # version
     mash --version > VERSION
     # generate db
-    tar -xvf ~{fastas}
-    list=$(ls | grep ".fna")
-    for i in $list
-      do
-      #taxon=$(head -n1 $i | cut -d " " -f2,3)
-      id=$(echo $i | grep -Eo "GCF_[0-9]+.[0-9]")
-      mash sketch -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -I $id $i 
-      done
-    mash sketch -o ~{name} *.msh
+    tar -I pigz -xvf ~{fastas}
+    mash sketch -p ~{cpu} -k ~{kmer} -s ~{sketch_size} -o ~{name} *.fna
     # clean up
-    rm *.fna *fna.msh 
+    rm *.fna
   >>>
 
   output {

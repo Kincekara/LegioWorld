@@ -1,0 +1,1223 @@
+GCF_000008485.1	ASM848v1	Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+GCF_000048645.1	ASM4864v1	Legionella pneumophila str. Paris
+GCF_000048665.1	ASM4866v1	Legionella pneumophila str. Lens
+GCF_000091785.1	ASM9178v1	Legionella longbeachae NSW150
+GCF_000092545.1	ASM9254v1	Legionella pneumophila str. Corby
+GCF_000092625.1	ASM9262v1	Legionella pneumophila 2300/99 Alcoy
+GCF_000162755.2	ASM16275v2	Legionella drancourtii LLAP12
+GCF_000176095.1	ASM17609v1	Legionella longbeachae D-4968
+GCF_000211115.1	ASM21111v2	Legionella pneumophila 130b
+GCF_000236145.1	ASM23614v1	Fluoribacter dumoffii Tex-KL
+GCF_000236165.1	ASM23616v1	Fluoribacter dumoffii NY 23
+GCF_000239175.1	ASM23917v1	Legionella pneumophila subsp. pneumophila ATCC 43290
+GCF_000306845.1	ASM30684v1	Legionella pneumophila subsp. pneumophila
+GCF_000306865.1	ASM30686v1	Legionella pneumophila subsp. pneumophila
+GCF_000308315.1	ASM30831v1	Legionella tunisiensis
+GCF_000333755.1	ASM33375v1	Legionella anisa str. Linanisette
+GCF_000347615.1	ASM34761v1	Legionella pneumophila subsp. pneumophila LPE509
+GCF_000373765.1	ASM37376v1	Legionella shakespearei DSM 23087
+GCF_000404245.1	ASM40424v1	Legionella pneumophila subsp. pneumophila str. Thunder Bay
+GCF_000423305.1	ASM42330v1	Legionella moravica DSM 19234
+GCF_000455845.1	121004	Legionella pneumophila str. 121004
+GCF_000465675.1	Leg01/11	Legionella pneumophila str. Leg01/11
+GCF_000465695.1	Leg01/53	Legionella pneumophila str. Leg01/53
+GCF_000465915.1	Leg01/20	Legionella pneumophila str. Leg01/20
+GCF_000468235.1	Legionella pneumophila Leg01_16	Legionella pneumophila Leg01/16
+GCF_000500125.1	W1046	Legionella pneumophila W1046
+GCF_000512355.1	ASM51235v1	Legionella oakridgensis ATCC 33761 = DSM 21215
+GCF_000512715.1	lor.0	Legionella oakridgensis RV-2-2007
+GCF_000586075.1	ATCC_43736	Legionella pneumophila subsp. pneumophila
+GCF_000586095.1	ATCC_43703	Legionella pneumophila subsp. pneumophila
+GCF_000586115.1	ATCC_43290	Legionella pneumophila subsp. pneumophila
+GCF_000586135.1	ATCC_43283	Legionella pneumophila subsp. pneumophila
+GCF_000586155.1	ATCC_43130	Legionella pneumophila subsp. pneumophila
+GCF_000586175.1	ATCC_35289	Legionella pneumophila subsp. pneumophila
+GCF_000586195.1	ATCC_35251	Legionella pneumophila subsp. fraseri
+GCF_000586215.1	ATCC_35096	Legionella pneumophila subsp. pneumophila
+GCF_000586235.1	ATCC_33823	Legionella pneumophila subsp. pneumophila
+GCF_000586255.1	ATCC_33737	Legionella pneumophila subsp. pascullei
+GCF_000586275.1	ATCC_33216	Legionella pneumophila subsp. fraseri
+GCF_000586295.1	ATCC_33215	Legionella pneumophila subsp. pneumophila ATCC 33215
+GCF_000586315.1	ATCC_33156	Legionella pneumophila subsp. fraseri
+GCF_000586335.1	ATCC_33155	Legionella pneumophila subsp. pneumophila
+GCF_000586355.1	ATCC_33154	Legionella pneumophila subsp. pneumophila
+GCF_000586375.1	ATCC_33152	Legionella pneumophila subsp. pneumophila
+GCF_000614785.1	ASM61478v1	Legionella pneumophila subsp. pneumophila JCM 7571
+GCF_000621365.1	ASM62136v1	Legionella geestiana DSM 21217
+GCF_000621385.1	ASM62138v1	Legionella cherrii DSM 19213
+GCF_000621525.1	ASM62152v1	Legionella fairfieldensis ATCC 49588
+GCF_000621685.1	ASM62168v1	Legionella sainthelensi ATCC 35248 = DSM 19231
+GCF_000622185.1	ASM62218v1	Legionella lansingensis DSM 19556 = ATCC 49751
+GCF_000694995.1	ASM69499v1	Legionella pneumophila serogroup 1
+GCF_000695015.1	ASM69501v1	Legionella pneumophila serogroup 1
+GCF_000699225.1	lp04_1.0	Legionella pneumophila
+GCF_000701265.1	ASM70126v1	Legionella wadsworthii DSM 21896 = ATCC 33877
+GCF_000756695.1	PRJEB110_assembly_1	Legionella massiliensis
+GCF_000756815.1	PRJEB6598_assembly_1	Legionella massiliensis
+GCF_000770585.1	ASM77058v1	Legionella norrlandica
+GCF_000785905.1	ASM78590v1	Legionella pneumophila
+GCF_000823305.1	12_3965	Legionella pneumophila
+GCF_000823325.1	12_4030	Legionella pneumophila
+GCF_000823345.1	12_4042	Legionella pneumophila
+GCF_000823365.1	12_4053	Legionella pneumophila
+GCF_000823385.1	12_4054	Legionella pneumophila
+GCF_000823405.1	12_4058	Legionella pneumophila
+GCF_000823425.1	12_4117	Legionella pneumophila
+GCF_000823445.1	12_4169	Legionella pneumophila
+GCF_000823465.1	12_4240	Legionella pneumophila
+GCF_000823485.1	12_4251	Legionella pneumophila
+GCF_000823505.1	12_4437	Legionella pneumophila
+GCF_000823525.1	12_4480	Legionella pneumophila
+GCF_000823545.1	12_4499	Legionella pneumophila
+GCF_000823565.1	12_4555	Legionella pneumophila
+GCF_000823585.1	12_4561	Legionella pneumophila
+GCF_000823605.1	12_4563	Legionella pneumophila
+GCF_000823625.1	12_4903	Legionella pneumophila
+GCF_000823645.1	12_4904	Legionella pneumophila
+GCF_000823665.1	12_5064	Legionella pneumophila
+GCF_000823685.1	12_5223	Legionella pneumophila
+GCF_000823705.1	12_5251	Legionella pneumophila
+GCF_000823725.1	12_5329	Legionella pneumophila
+GCF_000823745.1	12_5383	Legionella pneumophila
+GCF_000823765.1	12_5414	Legionella pneumophila
+GCF_000823785.1	12_5415	Legionella pneumophila
+GCF_000823805.1	HO4020049	Legionella pneumophila
+GCF_000823825.1	HO80160261	Legionella pneumophila
+GCF_000823845.1	HO80160262	Legionella pneumophila
+GCF_000823865.1	HO80160263	Legionella pneumophila
+GCF_000823885.1	HO92620872	Legionella pneumophila
+GCF_000950675.1	ASM95067v1	Legionella pneumophila
+GCF_000950695.1	ASM95069v1	Legionella pneumophila
+GCF_000950745.1	ASM95074v1	Legionella pneumophila
+GCF_000953135.1	LFA	Legionella fallonii LLAP-10
+GCF_000953635.1	LMI	Tatlockia micdadei
+GCF_000953655.1	LHA	Legionella hackeliae
+GCF_000953915.1	ASM95391v1	Legionella pneumophila
+GCF_000953935.1	ASM95393v1	Legionella pneumophila
+GCF_001465875.1	Legionella saoudiensis	Legionella saoudiensis
+GCF_001467025.1	ASM146702v1	Legionella brunensis
+GCF_001467035.1	ASM146703v1	Legionella cherrii
+GCF_001467045.1	ASM146704v1	Legionella bozemanae
+GCF_001467055.1	ASM146705v1	Legionella adelaidensis
+GCF_001467505.1	ASM146750v1	Legionella birminghamensis
+GCF_001467525.1	ASM146752v1	Legionella anisa
+GCF_001467535.1	ASM146753v1	Legionella worsleiensis
+GCF_001467545.1	ASM146754v1	Legionella cincinnatiensis
+GCF_001467585.1	ASM146758v1	Legionella drozanskii LLAP-1
+GCF_001467605.1	ASM146760v1	Fluoribacter dumoffii NY 23
+GCF_001467615.1	ASM146761v1	Legionella erythra
+GCF_001467625.1	ASM146762v1	Legionella feeleii
+GCF_001467645.1	ASM146764v1	Legionella geestiana
+GCF_001467685.1	ASM146768v1	Fluoribacter gormanii
+GCF_001467695.1	ASM146769v1	Legionella gratiana
+GCF_001467705.1	ASM146770v1	Legionella hackeliae
+GCF_001467745.1	ASM146774v1	Legionella jamestowniensis
+GCF_001467765.1	ASM146776v1	Legionella jordanis
+GCF_001467785.1	ASM146778v1	Legionella israelensis
+GCF_001467795.1	ASM146779v1	Legionella lansingensis
+GCF_001467825.1	ASM146782v1	Legionella londiniensis
+GCF_001467845.1	ASM146784v1	Legionella maceachernii
+GCF_001467865.1	ASM146786v1	Legionella moravica
+GCF_001467875.1	ASM146787v1	Tatlockia micdadei
+GCF_001467895.1	ASM146789v1	Legionella nautarum
+GCF_001467925.1	ASM146792v1	Legionella oakridgensis
+GCF_001467945.1	ASM146794v1	Legionella parisiensis
+GCF_001467955.1	ASM146795v1	Legionella quateirensis
+GCF_001467975.1	ASM146797v1	Legionella quinlivanii
+GCF_001468005.1	ASM146800v1	Legionella steelei
+GCF_001468025.1	ASM146802v1	Legionella shakespearei DSM 23087
+GCF_001468035.1	ASM146803v1	Legionella tucsonensis
+GCF_001468065.1	ASM146806v1	Legionella steigerwaltii
+GCF_001468085.1	ASM146808v1	Legionella waltersii
+GCF_001468105.1	ASM146810v1	Legionella sainthelensi
+GCF_001468125.1	ASM146812v1	Legionella rubrilucens
+GCF_001468135.1	ASM146813v1	Legionella santicrucis
+GCF_001468165.1	ASM146816v1	Legionella spiritensis
+GCF_001549915.1	ASM154991v1	Legionella pneumophila
+GCF_001549925.1	ASM154992v1	Legionella pneumophila
+GCF_001582135.1	ASM158213v1	Legionella pneumophila
+GCF_001582145.1	ASM158214v1	Legionella pneumophila
+GCF_001582155.1	ASM158215v1	Legionella pneumophila
+GCF_001582165.1	ASM158216v1	Legionella pneumophila subsp. pneumophila ATCC 43283
+GCF_001582215.1	ASM158221v1	Legionella pneumophila
+GCF_001582225.1	ASM158222v1	Legionella pneumophila
+GCF_001582235.1	ASM158223v1	Legionella pneumophila
+GCF_001582245.1	ASM158224v1	Legionella pneumophila
+GCF_001582295.1	ASM158229v1	Legionella pneumophila
+GCF_001582305.1	ASM158230v1	Legionella pneumophila
+GCF_001582315.1	ASM158231v1	Legionella pneumophila
+GCF_001582325.1	ASM158232v1	Legionella pneumophila
+GCF_001582375.1	ASM158237v1	Legionella pneumophila
+GCF_001582385.1	ASM158238v1	Legionella pneumophila
+GCF_001582395.1	ASM158239v1	Legionella pneumophila
+GCF_001582405.1	ASM158240v1	Legionella pneumophila
+GCF_001582455.1	ASM158245v1	Legionella pneumophila
+GCF_001582465.1	ASM158246v1	Legionella pneumophila
+GCF_001582475.1	ASM158247v1	Legionella pneumophila
+GCF_001582485.1	ASM158248v1	Legionella pneumophila
+GCF_001582535.1	ASM158253v1	Legionella pneumophila
+GCF_001582545.1	ASM158254v1	Legionella pneumophila
+GCF_001582555.1	ASM158255v1	Legionella pneumophila
+GCF_001582565.1	ASM158256v1	Legionella pneumophila
+GCF_001582615.1	ASM158261v1	Legionella pneumophila
+GCF_001582625.1	ASM158262v1	Legionella pneumophila
+GCF_001582635.1	ASM158263v1	Legionella pneumophila
+GCF_001582645.1	ASM158264v1	Legionella pneumophila
+GCF_001582695.1	ASM158269v1	Legionella pneumophila
+GCF_001582705.1	ASM158270v1	Legionella pneumophila
+GCF_001582715.1	ASM158271v1	Legionella pneumophila
+GCF_001582735.1	ASM158273v1	Legionella pneumophila
+GCF_001582775.1	ASM158277v1	Legionella pneumophila
+GCF_001582785.1	ASM158278v1	Legionella pneumophila
+GCF_001582795.1	ASM158279v1	Legionella pneumophila
+GCF_001582825.1	ASM158282v1	Legionella pneumophila
+GCF_001582855.1	ASM158285v1	Legionella pneumophila
+GCF_001582865.1	ASM158286v1	Legionella pneumophila
+GCF_001583565.1	ASM158356v1	Legionella pneumophila
+GCF_001583575.1	ASM158357v1	Legionella pneumophila
+GCF_001583585.1	ASM158358v1	Legionella pneumophila
+GCF_001583595.1	ASM158359v1	Legionella pneumophila
+GCF_001583645.1	ASM158364v1	Legionella pneumophila
+GCF_001583655.1	ASM158365v1	Legionella pneumophila
+GCF_001590615.2	ASM159061v2	Legionella pneumophila subsp. pascullei
+GCF_001590645.1	ASM159064v1	Legionella pneumophila subsp. pascullei
+GCF_001590695.1	ASM159069v1	Legionella pneumophila subsp. pascullei
+GCF_001592705.1	ASM159270v1	Legionella pneumophila subsp. pneumophila
+GCF_001600895.1	ASM160089v1	Legionella pneumophila
+GCF_001600905.1	ASM160090v1	Legionella pneumophila
+GCF_001600915.1	ASM160091v1	Legionella pneumophila
+GCF_001600925.1	ASM160092v1	Legionella pneumophila
+GCF_001600975.1	ASM160097v1	Legionella pneumophila
+GCF_001600985.1	ASM160098v1	Legionella pneumophila
+GCF_001600995.1	ASM160099v1	Legionella pneumophila
+GCF_001601005.1	ASM160100v1	Legionella pneumophila
+GCF_001601055.1	ASM160105v1	Legionella pneumophila
+GCF_001601075.1	ASM160107v1	Legionella pneumophila
+GCF_001601085.1	ASM160108v1	Legionella pneumophila
+GCF_001601115.1	ASM160111v1	Legionella pneumophila
+GCF_001601135.1	ASM160113v1	Legionella pneumophila
+GCF_001601155.1	ASM160115v1	Legionella pneumophila
+GCF_001601165.1	ASM160116v1	Legionella pneumophila
+GCF_001601175.1	ASM160117v1	Legionella pneumophila
+GCF_001601215.1	ASM160121v1	Legionella pneumophila
+GCF_001601235.1	ASM160123v1	Legionella pneumophila
+GCF_001601245.1	ASM160124v1	Legionella pneumophila
+GCF_001601325.1	ASM160132v1	Legionella pneumophila
+GCF_001601355.1	ASM160135v1	Legionella pneumophila
+GCF_001601375.1	ASM160137v1	Legionella pneumophila
+GCF_001601395.1	ASM160139v1	Legionella pneumophila
+GCF_001601415.1	ASM160141v1	Legionella pneumophila
+GCF_001601425.1	ASM160142v1	Legionella pneumophila
+GCF_001601455.1	ASM160145v1	Legionella pneumophila
+GCF_001601475.1	ASM160147v1	Legionella pneumophila
+GCF_001601485.1	ASM160148v1	Legionella pneumophila
+GCF_001601505.1	ASM160150v1	Legionella pneumophila
+GCF_001601535.1	ASM160153v1	Legionella pneumophila
+GCF_001610735.1	ASM161073v1	Legionella pneumophila
+GCF_001639045.1	ASM163904v1	Legionella pneumophila
+GCF_001648595.1	ASM164859v1	Legionella bozemanae
+GCF_001648605.1	ASM164860v1	Legionella oakridgensis
+GCF_001648615.1	ASM164861v1	Legionella feeleii
+GCF_001648625.1	ASM164862v1	Tatlockia micdadei
+GCF_001648675.1	ASM164867v1	Legionella jordanis
+GCF_001648685.1	ASM164868v1	Fluoribacter gormanii
+GCF_001652645.1	ASM165264v1	Legionella pneumophila
+GCF_001652665.1	ASM165266v1	Legionella pneumophila
+GCF_001652685.1	ASM165268v1	Legionella pneumophila
+GCF_001677075.2	ASM167707v2	Legionella pneumophila
+GCF_001677115.2	ASM167711v2	Legionella pneumophila
+GCF_001685545.1	ASM168554v1	Legionella pneumophila serogroup 1
+GCF_001685575.1	ASM168557v1	Legionella pneumophila serogroup 1
+GCF_001691475.1	ASM169147v1	Legionella jamestowniensis
+GCF_001736145.1	ASM173614v1	Legionella parisiensis
+GCF_001752705.1	ASM175270v1	Legionella pneumophila
+GCF_001752725.1	ASM175272v1	Legionella pneumophila
+GCF_001752745.1	ASM175274v1	Legionella pneumophila
+GCF_001752765.1	ASM175276v1	Legionella pneumophila
+GCF_001752785.1	ASM175278v1	Legionella pneumophila
+GCF_001752805.1	ASM175280v1	Legionella pneumophila
+GCF_001752825.1	ASM175282v1	Legionella pneumophila
+GCF_001752845.1	ASM175284v1	Legionella pneumophila
+GCF_001752865.1	ASM175286v1	Legionella pneumophila
+GCF_001752885.1	ASM175288v1	Legionella pneumophila
+GCF_001752905.1	ASM175290v1	Legionella pneumophila
+GCF_001752925.1	ASM175292v1	Legionella pneumophila
+GCF_001752945.1	ASM175294v1	Legionella pneumophila
+GCF_001752965.1	ASM175296v1	Legionella pneumophila
+GCF_001753065.1	ASM175306v1	Legionella pneumophila
+GCF_001753085.1	ASM175308v1	Legionella pneumophila
+GCF_001753105.1	ASM175310v1	Legionella pneumophila
+GCF_001753125.1	ASM175312v1	Legionella pneumophila
+GCF_001753145.1	ASM175314v1	Legionella pneumophila
+GCF_001753265.1	ASM175326v1	Legionella pneumophila
+GCF_001753285.1	ASM175328v1	Legionella pneumophila
+GCF_001753305.1	ASM175330v1	Legionella pneumophila
+GCF_001753325.1	ASM175332v1	Legionella pneumophila
+GCF_001753345.1	ASM175334v1	Legionella pneumophila
+GCF_001753365.1	ASM175336v1	Legionella pneumophila
+GCF_001753385.1	ASM175338v1	Legionella pneumophila
+GCF_001753405.1	ASM175340v1	Legionella pneumophila
+GCF_001766275.1	ASM176627v1	Legionella pneumophila subsp. pneumophila
+GCF_001766295.1	ASM176629v1	Legionella pneumophila subsp. pneumophila
+GCF_001766315.1	ASM176631v1	Legionella pneumophila subsp. pneumophila
+GCF_001766335.1	ASM176633v1	Legionella pneumophila subsp. pneumophila
+GCF_001766355.1	ASM176635v1	Legionella pneumophila subsp. pneumophila
+GCF_001766375.1	ASM176637v1	Legionella pneumophila subsp. pneumophila
+GCF_001886795.1	ASM188679v1	Legionella pneumophila subsp. fraseri
+GCF_001886835.1	ASM188683v1	Legionella pneumophila subsp. fraseri
+GCF_001941585.1	ASM194158v1	Legionella pneumophila
+GCF_001969405.1	ASM196940v1	Legionella pneumophila
+GCF_001989475.1	ASM198947v1	Legionella pneumophila
+GCF_001997245.1	ASM199724v1	Legionella pneumophila subsp. pneumophila ATCC 43290
+GCF_002002625.1	ASM200262v1	Legionella pneumophila subsp. pneumophila str. Mississauga
+GCF_002002645.1	ASM200264v1	Legionella pneumophila subsp. pneumophila str. Sudbury
+GCF_002073455.2	ASM207345v2	Legionella longbeachae
+GCF_002082905.2	ASM208290v2	Legionella anisa
+GCF_002082955.2	ASM208295v2	Legionella pneumophila subsp. pneumophila
+GCF_002085715.1	ASM208571v1	Tatlockia micdadei
+GCF_002085735.1	ASM208573v1	Tatlockia micdadei
+GCF_002113845.3	ASM211384v3	Legionella longbeachae
+GCF_002240035.1	ASM224003v1	Legionella clemsonensis
+GCF_002776555.1	ASM277655v1	Legionella endosymbiont of Polyplax serrata
+GCF_002813715.1	ASM281371v1	Legionella pneumophila
+GCF_002813735.1	ASM281373v1	Legionella pneumophila
+GCF_002848365.2	ASM284836v2	Legionella sainthelensi
+GCF_002934165.1	ASM293416v1	Legionella pneumophila
+GCF_002934185.1	ASM293418v1	Legionella pneumophila
+GCF_002934205.1	ASM293420v1	Legionella pneumophila
+GCF_002967055.1	ASM296705v1	Legionella pneumophila
+GCF_003003515.1	ASM300351v1	Legionella pneumophila
+GCF_003003535.1	ASM300353v1	Legionella pneumophila
+GCF_003003555.1	ASM300355v1	Legionella pneumophila
+GCF_003003595.1	ASM300359v1	Legionella pneumophila subsp. fraseri
+GCF_003003675.1	ASM300367v1	Legionella pneumophila subsp. fraseri
+GCF_003003755.1	ASM300375v1	Legionella pneumophila subsp. fraseri
+GCF_003003815.1	ASM300381v1	Legionella pneumophila subsp. pneumophila
+GCF_003003865.1	ASM300386v1	Legionella pneumophila subsp. fraseri
+GCF_003003955.1	ASM300395v1	Legionella pneumophila subsp. fraseri
+GCF_003004065.1	ASM300406v1	Legionella pneumophila
+GCF_003004115.1	ASM300411v1	Legionella pneumophila subsp. pascullei
+GCF_003004135.1	ASM300413v1	Legionella pneumophila subsp. pneumophila
+GCF_003004155.1	ASM300415v1	Legionella pneumophila subsp. pneumophila
+GCF_003004175.1	ASM300417v1	Legionella pneumophila subsp. pneumophila
+GCF_003004195.1	ASM300419v1	Legionella pneumophila
+GCF_003004215.1	ASM300421v1	Legionella pneumophila subsp. fraseri
+GCF_003004235.1	ASM300423v1	Legionella pneumophila
+GCF_003004255.1	ASM300425v1	Legionella pneumophila subsp. fraseri
+GCF_003004275.1	ASM300427v1	Legionella pneumophila subsp. pneumophila
+GCF_003004295.1	ASM300429v1	Legionella pneumophila subsp. pneumophila
+GCF_003004315.1	ASM300431v1	Legionella pneumophila subsp. pneumophila
+GCF_003004335.1	ASM300433v1	Legionella pneumophila
+GCF_003070625.1	ASM307062v1	Legionella taurinensis
+GCF_003070645.1	ASM307064v1	Legionella taurinensis
+GCF_003070665.1	ASM307066v1	Legionella taurinensis
+GCF_003070675.1	ASM307067v1	Legionella taurinensis
+GCF_003176875.1	ASM317687v1	Legionella anisa
+GCF_003184185.1	ASM318418v1	Legionella qingyii
+GCF_003205035.1	ASM320503v1	Legionella pneumophila
+GCF_003205045.1	ASM320504v1	Legionella pneumophila
+GCF_003205055.1	ASM320505v1	Legionella pneumophila
+GCF_003205065.1	ASM320506v1	Legionella pneumophila
+GCF_003205115.1	ASM320511v1	Legionella pneumophila
+GCF_003205135.1	ASM320513v1	Legionella pneumophila
+GCF_003205155.1	ASM320515v1	Legionella pneumophila
+GCF_003205175.1	ASM320517v1	Legionella pneumophila
+GCF_003265995.1	ASM326599v1	Legionella quinlivanii
+GCF_003345615.1	ASM334561v1	Legionella pneumophila
+GCF_003345635.1	ASM334563v1	Legionella pneumophila
+GCF_003602125.1	ASM360212v1	Legionella taurinensis
+GCF_003602175.1	ASM360217v1	Legionella taurinensis
+GCF_003605815.1	WS17_LgA.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605825.1	L08A.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605835.1	L04A.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605875.1	L05B.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605895.1	L02C.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605915.1	L03B.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605925.1	L09A.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003605955.1	L01C.1_n_l_OLDA	Legionella pneumophila subsp. pneumophila
+GCF_003703415.1	ASM370341v1	Legionella jordanis
+GCF_003703435.1	ASM370343v1	Legionella jordanis
+GCF_003989735.1	ASM398973v1	Legionella sp. km772
+GCF_003989745.1	ASM398974v1	Legionella septentrionalis
+GCF_003990055.1	ASM399005v1	Legionella septentrionalis
+GCF_003990085.1	ASM399008v1	Legionella sp. km535
+GCF_003990115.1	ASM399011v1	Legionella septentrionalis
+GCF_003990125.1	ASM399012v1	Legionella qingyii
+GCF_003990155.1	ASM399015v1	Legionella qingyii
+GCF_003990275.1	ASM399027v1	Legionella septentrionalis
+GCF_004136915.1	ASM413691v1	Legionella pneumophila
+GCF_004136945.1	ASM413694v1	Legionella pneumophila
+GCF_004137115.1	ASM413711v1	Legionella pneumophila
+GCF_004137125.1	ASM413712v1	Legionella pneumophila
+GCF_004137145.1	ASM413714v1	Legionella pneumophila
+GCF_004137185.1	ASM413718v1	Legionella pneumophila
+GCF_004137195.1	ASM413719v1	Legionella pneumophila
+GCF_004137425.1	ASM413742v1	Legionella pneumophila
+GCF_004137445.1	ASM413744v1	Legionella pneumophila
+GCF_004137465.1	ASM413746v1	Legionella pneumophila
+GCF_004137475.1	ASM413747v1	Legionella pneumophila
+GCF_004137485.1	ASM413748v1	Legionella pneumophila
+GCF_004137525.1	ASM413752v1	Legionella pneumophila
+GCF_004137535.1	ASM413753v1	Legionella pneumophila
+GCF_004137565.1	ASM413756v1	Legionella pneumophila
+GCF_004137575.1	ASM413757v1	Legionella pneumophila
+GCF_004137585.1	ASM413758v1	Legionella pneumophila
+GCF_004137595.1	ASM413759v1	Legionella pneumophila
+GCF_004137635.1	ASM413763v1	Legionella pneumophila
+GCF_004168945.1	ASM416894v1	Legionella pneumophila
+GCF_004168955.1	ASM416895v1	Legionella pneumophila
+GCF_004168965.1	ASM416896v1	Legionella pneumophila
+GCF_004168975.1	ASM416897v1	Legionella pneumophila
+GCF_004168985.1	ASM416898v1	Legionella pneumophila
+GCF_004169045.1	ASM416904v1	Legionella pneumophila
+GCF_004169055.1	ASM416905v1	Legionella pneumophila
+GCF_004169065.1	ASM416906v1	Legionella pneumophila
+GCF_004169085.1	ASM416908v1	Legionella pneumophila
+GCF_004169095.1	ASM416909v1	Legionella pneumophila
+GCF_004169145.1	ASM416914v1	Legionella pneumophila
+GCF_004169155.1	ASM416915v1	Legionella pneumophila
+GCF_004169165.1	ASM416916v1	Legionella pneumophila
+GCF_004169185.1	ASM416918v1	Legionella pneumophila
+GCF_004169195.1	ASM416919v1	Legionella pneumophila
+GCF_004169245.1	ASM416924v1	Legionella pneumophila
+GCF_004169255.1	ASM416925v1	Legionella pneumophila
+GCF_004169285.1	ASM416928v1	Legionella pneumophila
+GCF_004169295.1	ASM416929v1	Legionella pneumophila
+GCF_004169325.1	ASM416932v1	Legionella pneumophila
+GCF_004169335.1	ASM416933v1	Legionella pneumophila
+GCF_004169345.1	ASM416934v1	Legionella pneumophila
+GCF_004169385.1	ASM416938v1	Legionella pneumophila
+GCF_004169395.1	ASM416939v1	Legionella pneumophila
+GCF_004169425.1	ASM416942v1	Legionella pneumophila
+GCF_004169435.1	ASM416943v1	Legionella pneumophila
+GCF_004169445.1	ASM416944v1	Legionella pneumophila
+GCF_004169485.1	ASM416948v1	Legionella pneumophila
+GCF_004169495.1	ASM416949v1	Legionella pneumophila
+GCF_004169525.1	ASM416952v1	Legionella pneumophila
+GCF_004169535.1	ASM416953v1	Legionella pneumophila
+GCF_004169545.1	ASM416954v1	Legionella pneumophila
+GCF_004169585.1	ASM416958v1	Legionella pneumophila
+GCF_004169595.1	ASM416959v1	Legionella pneumophila
+GCF_004169605.1	ASM416960v1	Legionella pneumophila
+GCF_004169625.1	ASM416962v1	Legionella pneumophila
+GCF_004169635.1	ASM416963v1	Legionella pneumophila
+GCF_004169685.1	ASM416968v1	Legionella pneumophila
+GCF_004169695.1	ASM416969v1	Legionella pneumophila
+GCF_004169715.1	ASM416971v1	Legionella pneumophila
+GCF_004169725.1	ASM416972v1	Legionella pneumophila
+GCF_004169765.1	ASM416976v1	Legionella pneumophila
+GCF_004169775.1	ASM416977v1	Legionella pneumophila
+GCF_004169785.1	ASM416978v1	Legionella pneumophila
+GCF_004169795.1	ASM416979v1	Legionella pneumophila
+GCF_004169805.1	ASM416980v1	Legionella pneumophila
+GCF_004169865.1	ASM416986v1	Legionella pneumophila
+GCF_004169875.1	ASM416987v1	Legionella pneumophila
+GCF_004169885.1	ASM416988v1	Legionella pneumophila
+GCF_004169905.1	ASM416990v1	Legionella pneumophila
+GCF_004169925.1	ASM416992v1	Legionella pneumophila
+GCF_004169965.1	ASM416996v1	Legionella pneumophila
+GCF_004169975.1	ASM416997v1	Legionella pneumophila
+GCF_004169985.1	ASM416998v1	Legionella pneumophila
+GCF_004169995.1	ASM416999v1	Legionella pneumophila
+GCF_004170045.1	ASM417004v1	Legionella pneumophila
+GCF_004170065.1	ASM417006v1	Legionella pneumophila
+GCF_004170085.1	ASM417008v1	Legionella pneumophila
+GCF_004170095.1	ASM417009v1	Legionella pneumophila
+GCF_004170105.1	ASM417010v1	Legionella pneumophila
+GCF_004170125.1	ASM417012v1	Legionella pneumophila
+GCF_004170165.1	ASM417016v1	Legionella pneumophila
+GCF_004170185.1	ASM417018v1	Legionella pneumophila
+GCF_004170195.1	ASM417019v1	Legionella pneumophila
+GCF_004170215.1	ASM417021v1	Legionella pneumophila
+GCF_004170225.1	ASM417022v1	Legionella pneumophila
+GCF_004170265.1	ASM417026v1	Legionella pneumophila
+GCF_004170285.1	ASM417028v1	Legionella pneumophila
+GCF_004170305.1	ASM417030v1	Legionella pneumophila
+GCF_004170315.1	ASM417031v1	Legionella pneumophila
+GCF_004170325.1	ASM417032v1	Legionella pneumophila
+GCF_004170355.1	ASM417035v1	Legionella pneumophila
+GCF_004170385.1	ASM417038v1	Legionella pneumophila
+GCF_004170395.1	ASM417039v1	Legionella pneumophila
+GCF_004170415.1	ASM417041v1	Legionella pneumophila
+GCF_004283175.1	ASM428317v1	Legionella longbeachae
+GCF_004564155.1	ASM456415v1	Legionella israelensis
+GCF_004571175.1	ASM457117v1	Legionella israelensis
+GCF_004571195.1	ASM457119v1	Legionella geestiana
+GCF_004766445.2	ASM476644v2	Legionella geestiana
+GCF_004920375.1	ASM492037v1	Legionella taurinensis
+GCF_004920385.1	ASM492038v1	Legionella taurinensis
+GCF_004920395.1	ASM492039v1	Legionella pneumophila
+GCF_004920415.1	ASM492041v1	Legionella taurinensis
+GCF_004920475.1	ASM492047v1	Legionella taurinensis
+GCF_004920485.1	ASM492048v1	Legionella taurinensis
+GCF_004920495.1	ASM492049v1	Legionella taurinensis
+GCF_004920515.1	ASM492051v1	Legionella pneumophila
+GCF_004920555.1	ASM492055v1	Legionella pneumophila
+GCF_004920575.1	ASM492057v1	Legionella pneumophila
+GCF_004920585.1	ASM492058v1	Legionella pneumophila
+GCF_004920605.1	ASM492060v1	Legionella pneumophila
+GCF_004920645.1	ASM492064v1	Legionella pneumophila
+GCF_004920665.1	ASM492066v1	Legionella pneumophila
+GCF_004920675.1	ASM492067v1	Legionella pneumophila
+GCF_004920705.1	ASM492070v1	Legionella pneumophila
+GCF_004920715.1	ASM492071v1	Legionella pneumophila
+GCF_004920765.1	ASM492076v1	Legionella pneumophila
+GCF_004920775.1	ASM492077v1	Legionella pneumophila
+GCF_004920815.1	ASM492081v1	Legionella pneumophila
+GCF_004920825.1	ASM492082v1	Legionella pneumophila
+GCF_004920885.1	ASM492088v1	Legionella pneumophila
+GCF_004920895.1	ASM492089v1	Legionella pneumophila
+GCF_004920925.1	ASM492092v1	Legionella pneumophila
+GCF_004920945.1	ASM492094v1	Legionella pneumophila
+GCF_004920965.1	ASM492096v1	Legionella pneumophila
+GCF_004920975.1	ASM492097v1	Legionella pneumophila
+GCF_004921005.1	ASM492100v1	Legionella pneumophila
+GCF_004921035.1	ASM492103v1	Legionella pneumophila
+GCF_004921045.1	ASM492104v1	Legionella pneumophila
+GCF_004921075.1	ASM492107v1	Legionella pneumophila
+GCF_004921085.1	ASM492108v1	Legionella pneumophila
+GCF_004921115.1	ASM492111v1	Legionella pneumophila
+GCF_004921125.1	ASM492112v1	Legionella pneumophila
+GCF_004921135.1	ASM492113v1	Legionella pneumophila
+GCF_004921165.1	ASM492116v1	Legionella pneumophila
+GCF_004921175.1	ASM492117v1	Legionella pneumophila
+GCF_004921205.1	ASM492120v1	Legionella pneumophila
+GCF_004921225.1	ASM492122v1	Legionella pneumophila
+GCF_004921245.1	ASM492124v1	Legionella pneumophila
+GCF_004921255.1	ASM492125v1	Legionella pneumophila
+GCF_004921295.1	ASM492129v1	Legionella pneumophila
+GCF_004921305.1	ASM492130v1	Legionella pneumophila
+GCF_004921325.1	ASM492132v1	Legionella pneumophila
+GCF_004921335.1	ASM492133v1	Legionella pneumophila
+GCF_004921345.1	ASM492134v1	Legionella pneumophila
+GCF_004921395.1	ASM492139v1	Legionella pneumophila
+GCF_004921405.1	ASM492140v1	Legionella pneumophila
+GCF_004921415.1	ASM492141v1	Legionella pneumophila
+GCF_004921435.1	ASM492143v1	Legionella pneumophila
+GCF_004921445.1	ASM492144v1	Legionella pneumophila
+GCF_004921495.1	ASM492149v1	Legionella pneumophila
+GCF_004921505.1	ASM492150v1	Legionella pneumophila
+GCF_004921515.1	ASM492151v1	Legionella pneumophila
+GCF_004921535.1	ASM492153v1	Legionella pneumophila
+GCF_004921545.1	ASM492154v1	Legionella pneumophila
+GCF_004921595.1	ASM492159v1	Legionella pneumophila
+GCF_004921605.1	ASM492160v1	Legionella pneumophila
+GCF_004921615.1	ASM492161v1	Legionella pneumophila
+GCF_004921625.1	ASM492162v1	Legionella pneumophila
+GCF_004921655.1	ASM492165v1	Legionella pneumophila
+GCF_004921695.1	ASM492169v1	Legionella pneumophila
+GCF_004921705.1	ASM492170v1	Legionella pneumophila
+GCF_004921715.1	ASM492171v1	Legionella pneumophila
+GCF_004921725.1	ASM492172v1	Legionella taurinensis
+GCF_004921735.1	ASM492173v1	Legionella taurinensis
+GCF_004921785.1	ASM492178v1	Legionella pneumophila
+GCF_004921805.1	ASM492180v1	Legionella pneumophila
+GCF_004921815.1	ASM492181v1	Legionella pneumophila
+GCF_004921825.1	ASM492182v1	Legionella pneumophila
+GCF_004921865.1	ASM492186v1	Legionella pneumophila
+GCF_004921895.1	ASM492189v1	Legionella pneumophila
+GCF_004921905.1	ASM492190v1	Legionella pneumophila
+GCF_004921915.1	ASM492191v1	Legionella pneumophila
+GCF_004921965.1	ASM492196v1	Legionella pneumophila
+GCF_004921985.1	ASM492198v1	Legionella pneumophila
+GCF_004921995.1	ASM492199v1	Legionella pneumophila
+GCF_004922025.1	ASM492202v1	Legionella pneumophila
+GCF_004922035.1	ASM492203v1	Legionella pneumophila
+GCF_004922075.1	ASM492207v1	Legionella pneumophila
+GCF_004922085.1	ASM492208v1	Legionella pneumophila
+GCF_004922115.1	ASM492211v1	Legionella pneumophila
+GCF_004922125.1	ASM492212v1	Legionella pneumophila
+GCF_004922135.1	ASM492213v1	Legionella pneumophila
+GCF_004922165.1	ASM492216v1	Legionella pneumophila
+GCF_004922175.1	ASM492217v1	Legionella pneumophila
+GCF_004922205.1	ASM492220v1	Legionella pneumophila
+GCF_004922225.1	ASM492222v1	Legionella pneumophila
+GCF_004922235.1	ASM492223v1	Legionella pneumophila
+GCF_004922255.1	ASM492225v1	Legionella pneumophila
+GCF_004922285.1	ASM492228v1	Legionella pneumophila
+GCF_004922305.1	ASM492230v1	Legionella pneumophila
+GCF_004922325.1	ASM492232v1	Legionella pneumophila
+GCF_004922335.1	ASM492233v1	Legionella pneumophila
+GCF_004922345.1	ASM492234v1	Legionella pneumophila
+GCF_004922385.1	ASM492238v1	Legionella pneumophila
+GCF_004922415.1	ASM492241v1	Legionella pneumophila
+GCF_004922425.1	ASM492242v1	Legionella pneumophila
+GCF_004922435.1	ASM492243v1	Legionella pneumophila
+GCF_004922445.1	ASM492244v1	Legionella pneumophila
+GCF_004922475.1	ASM492247v1	Legionella pneumophila
+GCF_004922495.1	ASM492249v1	Legionella pneumophila
+GCF_004922525.1	ASM492252v1	Legionella pneumophila
+GCF_004922535.1	ASM492253v1	Legionella pneumophila
+GCF_004922575.1	ASM492257v1	Legionella pneumophila
+GCF_004922585.1	ASM492258v1	Legionella pneumophila
+GCF_004922605.1	ASM492260v1	Legionella pneumophila
+GCF_004922625.1	ASM492262v1	Legionella pneumophila
+GCF_004922635.1	ASM492263v1	Legionella pneumophila
+GCF_004922665.1	ASM492266v1	Legionella pneumophila
+GCF_004922675.1	ASM492267v1	Legionella pneumophila
+GCF_004922695.1	ASM492269v1	Legionella pneumophila
+GCF_004922705.1	ASM492270v1	Legionella pneumophila
+GCF_004922745.1	ASM492274v1	Legionella pneumophila
+GCF_004922755.1	ASM492275v1	Legionella pneumophila
+GCF_004922775.1	ASM492277v1	Legionella pneumophila
+GCF_006364635.1	ASM636463v1	Legionella pneumophila
+GCF_007361795.1	ASM736179v1	Legionella israelensis
+GCF_008807315.1	ASM880731v1	Legionella longbeachae
+GCF_009664815.1	ASM966481v1	Legionella pneumophila
+GCF_009932915.1	ASM993291v1	Legionella pneumophila
+GCF_009932955.1	ASM993295v1	Legionella pneumophila
+GCF_009932975.1	ASM993297v1	Legionella pneumophila
+GCF_009932995.1	ASM993299v1	Legionella pneumophila
+GCF_009933015.1	ASM993301v1	Legionella pneumophila
+GCF_009933035.1	ASM993303v1	Legionella pneumophila
+GCF_009933055.1	ASM993305v1	Legionella pneumophila
+GCF_009933065.1	ASM993306v1	Legionella pneumophila
+GCF_009933095.1	ASM993309v1	Legionella pneumophila
+GCF_009933115.1	ASM993311v1	Legionella pneumophila
+GCF_009933155.1	ASM993315v1	Legionella pneumophila
+GCF_009933195.1	ASM993319v1	Legionella pneumophila
+GCF_009933235.1	ASM993323v1	Legionella pneumophila
+GCF_010669065.1	ASM1066906v1	Legionella pneumophila
+GCF_011465255.1	ASM1146525v1	Legionella longbeachae
+GCF_011465395.1	ASM1146539v1	Legionella longbeachae
+GCF_011764505.1	ASM1176450v1	Legionella antarctica
+GCF_013303035.1	ASM1330303v1	Tatlockia micdadei
+GCF_014109805.1	ASM1410980v1	Legionella sp. PC1000
+GCF_014109825.1	ASM1410982v1	Legionella sp. PC997
+GCF_014646855.1	ASM1464685v1	Legionella impletisoli
+GCF_014789345.1	ASM1478934v1	Legionella pneumophila subsp. pneumophila
+GCF_015718065.1	ASM1571806v1	Legionella pneumophila
+GCF_016786215.1	ASM1678621v1	Legionella bononiensis
+GCF_016786415.1	ASM1678641v1	Legionella bononiensis
+GCF_016792125.1	ASM1679212v1	Legionella bononiensis
+GCF_016864235.1	ASM1686423v1	Legionella sp. MW5194
+GCF_017156415.1	ASM1715641v1	Legionella anisa
+GCF_017156435.1	ASM1715643v1	Legionella pneumophila
+GCF_017306685.1	ASM1730668v1	Legionella steelei
+GCF_019930685.1	ASM1993068v1	Legionella longbeachae
+GCF_019930765.1	ASM1993076v1	Legionella pneumophila
+GCF_019930805.1	ASM1993080v1	Legionella pneumophila
+GCF_019930885.1	ASM1993088v1	Legionella anisa
+GCF_019974095.1	ASM1997409v1	Legionella pneumophila
+GCF_020806065.1	ASM2080606v1	Legionella sp. 31fI33
+GCF_021282285.1	ASM2128228v1	Legionella sp. 9fVS26
+GCF_021297775.1	ASM2129777v1	Legionella sp. 16cNR16C
+GCF_021344005.1	ASM2134400v1	Legionella sp. 8cVS16
+GCF_022220445.1	ASM2222044v1	Legionella pneumophila
+GCF_022576135.1	ASM2257613v1	Legionella pneumophila serogroup 1
+GCF_022576145.1	ASM2257614v1	Legionella pneumophila serogroup 1
+GCF_022576175.1	ASM2257617v1	Legionella pneumophila serogroup 1
+GCF_022576195.1	ASM2257619v1	Legionella pneumophila serogroup 1
+GCF_022576205.1	ASM2257620v1	Legionella pneumophila serogroup 1
+GCF_022576235.1	ASM2257623v1	Legionella pneumophila serogroup 1
+GCF_022576255.1	ASM2257625v1	Legionella pneumophila serogroup 1
+GCF_022576265.1	ASM2257626v1	Legionella pneumophila serogroup 1
+GCF_022576295.1	ASM2257629v1	Legionella pneumophila serogroup 1
+GCF_022576305.1	ASM2257630v1	Legionella pneumophila serogroup 1
+GCF_022576335.1	ASM2257633v1	Legionella pneumophila serogroup 1
+GCF_022576345.1	ASM2257634v1	Legionella pneumophila serogroup 1
+GCF_022576375.1	ASM2257637v1	Legionella pneumophila serogroup 1
+GCF_022576395.1	ASM2257639v1	Legionella pneumophila serogroup 1
+GCF_022576415.1	ASM2257641v1	Legionella pneumophila serogroup 1
+GCF_022576435.1	ASM2257643v1	Legionella pneumophila serogroup 1
+GCF_022576455.1	ASM2257645v1	Legionella pneumophila serogroup 1
+GCF_022576475.1	ASM2257647v1	Legionella pneumophila serogroup 1
+GCF_022576485.1	ASM2257648v1	Legionella pneumophila serogroup 1
+GCF_022576515.1	ASM2257651v1	Legionella pneumophila serogroup 1
+GCF_022576535.1	ASM2257653v1	Legionella pneumophila serogroup 1
+GCF_022576545.1	ASM2257654v1	Legionella pneumophila serogroup 1
+GCF_022576575.1	ASM2257657v1	Legionella pneumophila serogroup 1
+GCF_022576595.1	ASM2257659v1	Legionella pneumophila serogroup 1
+GCF_022576605.1	ASM2257660v1	Legionella pneumophila serogroup 1
+GCF_022576635.1	ASM2257663v1	Legionella pneumophila serogroup 1
+GCF_022576655.1	ASM2257665v1	Legionella pneumophila serogroup 1
+GCF_022576675.1	ASM2257667v1	Legionella pneumophila serogroup 1
+GCF_022576695.1	ASM2257669v1	Legionella pneumophila serogroup 1
+GCF_022576715.1	ASM2257671v1	Legionella pneumophila serogroup 1
+GCF_022576735.1	ASM2257673v1	Legionella pneumophila serogroup 1
+GCF_022576755.1	ASM2257675v1	Legionella pneumophila serogroup 1
+GCF_022576765.1	ASM2257676v1	Legionella pneumophila serogroup 1
+GCF_022576795.1	ASM2257679v1	Legionella pneumophila serogroup 1
+GCF_022576815.1	ASM2257681v1	Legionella pneumophila serogroup 1
+GCF_022576835.1	ASM2257683v1	Legionella pneumophila serogroup 1
+GCF_022576855.1	ASM2257685v1	Legionella pneumophila serogroup 1
+GCF_022576875.1	ASM2257687v1	Legionella pneumophila serogroup 1
+GCF_022576895.1	ASM2257689v1	Legionella pneumophila serogroup 1
+GCF_022576935.1	ASM2257693v1	Legionella pneumophila serogroup 1
+GCF_022576945.1	ASM2257694v1	Legionella pneumophila serogroup 1
+GCF_022576955.1	ASM2257695v1	Legionella pneumophila serogroup 1
+GCF_022576965.1	ASM2257696v1	Legionella pneumophila serogroup 1
+GCF_022576975.1	ASM2257697v1	Legionella pneumophila serogroup 1
+GCF_022577035.1	ASM2257703v1	Legionella pneumophila serogroup 1
+GCF_022577055.1	ASM2257705v1	Legionella pneumophila serogroup 1
+GCF_022577085.1	ASM2257708v1	Legionella pneumophila serogroup 1
+GCF_022577095.1	ASM2257709v1	Legionella pneumophila serogroup 1
+GCF_022577105.1	ASM2257710v1	Legionella pneumophila serogroup 1
+GCF_022577155.1	ASM2257715v1	Legionella pneumophila serogroup 1
+GCF_022577175.1	ASM2257717v1	Legionella pneumophila serogroup 1
+GCF_022577185.1	ASM2257718v1	Legionella pneumophila serogroup 1
+GCF_022577195.1	ASM2257719v1	Legionella pneumophila serogroup 1
+GCF_022577205.1	ASM2257720v1	Legionella pneumophila serogroup 1
+GCF_022577225.1	ASM2257722v1	Legionella pneumophila serogroup 1
+GCF_022577275.1	ASM2257727v1	Legionella pneumophila serogroup 1
+GCF_022577295.1	ASM2257729v1	Legionella pneumophila serogroup 1
+GCF_022577305.1	ASM2257730v1	Legionella pneumophila serogroup 1
+GCF_022577335.1	ASM2257733v1	Legionella pneumophila serogroup 1
+GCF_022577345.1	ASM2257734v1	Legionella pneumophila serogroup 1
+GCF_022577375.1	ASM2257737v1	Legionella pneumophila serogroup 1
+GCF_022577395.1	ASM2257739v1	Legionella pneumophila serogroup 1
+GCF_022870105.1	ASM2287010v1	Legionella pneumophila subsp. pneumophila
+GCF_023016105.1	ASM2301610v1	Legionella pneumophila
+GCF_023074325.1	ASM2307432v1	Legionella pneumophila
+GCF_023074375.1	ASM2307437v1	Legionella pneumophila
+GCF_023074395.1	ASM2307439v1	Legionella pneumophila
+GCF_023074415.1	ASM2307441v1	Legionella pneumophila
+GCF_023074425.1	ASM2307442v1	Legionella pneumophila
+GCF_023074455.1	ASM2307445v1	Legionella pneumophila
+GCF_023618015.1	ASM2361801v1	Legionella maioricensis
+GCF_023618055.1	ASM2361805v1	Legionella maioricensis
+GCF_023895955.1	ASM2389595v1	Legionella pneumophila
+GCF_023921225.1	ASM2392122v1	Legionella lytica
+GCF_024160945.1	ASM2416094v1	Legionella sp. 27cVA30
+GCF_025941565.1	ASM2594156v1	Legionella sp. 515359
+GCF_026190735.1	ASM2619073v1	Legionella pneumophila
+GCF_026190755.1	ASM2619075v1	Legionella pneumophila
+GCF_026190775.1	ASM2619077v1	Legionella anisa
+GCF_026190795.1	ASM2619079v1	Legionella pneumophila
+GCF_026190815.1	ASM2619081v1	Legionella anisa
+GCF_026190835.1	ASM2619083v1	Fluoribacter gormanii
+GCF_026190855.1	ASM2619085v1	Fluoribacter dumoffii
+GCF_026190875.1	ASM2619087v1	Legionella pneumophila
+GCF_026190895.1	ASM2619089v1	Legionella pneumophila
+GCF_026190915.1	ASM2619091v1	Legionella quinlivanii
+GCF_026190925.1	ASM2619092v1	Fluoribacter dumoffii
+GCF_026190955.1	ASM2619095v1	Fluoribacter gormanii
+GCF_026190965.1	ASM2619096v1	Fluoribacter dumoffii
+GCF_026190995.1	ASM2619099v1	Legionella pneumophila
+GCF_026191015.1	ASM2619101v1	Legionella pneumophila
+GCF_026191035.1	ASM2619103v1	Legionella pneumophila
+GCF_026191045.1	ASM2619104v1	Legionella pneumophila
+GCF_026191055.1	ASM2619105v1	Legionella pneumophila
+GCF_026191075.1	ASM2619107v1	Fluoribacter dumoffii
+GCF_026191115.1	ASM2619111v1	Legionella sp. PATHC035
+GCF_026191135.1	ASM2619113v1	Fluoribacter dumoffii
+GCF_026191155.1	ASM2619115v1	Legionella pneumophila
+GCF_026191175.1	ASM2619117v1	Legionella pneumophila
+GCF_026191185.1	ASM2619118v1	Legionella sp. PATHC032
+GCF_026191205.1	ASM2619120v1	Legionella pneumophila
+GCF_026191235.1	ASM2619123v1	Legionella pneumophila
+GCF_026191255.1	ASM2619125v1	Legionella pneumophila
+GCF_026191275.1	ASM2619127v1	Legionella sp. PATHC039
+GCF_026191295.1	ASM2619129v1	Fluoribacter dumoffii
+GCF_026191315.1	ASM2619131v1	Legionella pneumophila
+GCF_026191335.1	ASM2619133v1	Legionella pneumophila
+GCF_026191355.1	ASM2619135v1	Legionella sp. PATHC038
+GCF_026689395.1	ASM2668939v1	Legionella pneumophila
+GCF_026689415.1	ASM2668941v1	Legionella pneumophila
+GCF_026689435.1	ASM2668943v1	Legionella pneumophila
+GCF_026689455.1	ASM2668945v1	Legionella pneumophila
+GCF_026689475.1	ASM2668947v1	Legionella pneumophila
+GCF_026689495.1	ASM2668949v1	Legionella pneumophila
+GCF_026689515.1	ASM2668951v1	Legionella pneumophila
+GCF_027272825.1	ASM2727282v1	Legionella pneumophila
+GCF_027272835.1	ASM2727283v1	Legionella pneumophila
+GCF_027272885.1	ASM2727288v1	Legionella pneumophila
+GCF_027272905.1	ASM2727290v1	Legionella pneumophila
+GCF_027272925.1	ASM2727292v1	Legionella pneumophila
+GCF_027272945.1	ASM2727294v1	Legionella pneumophila
+GCF_027272965.1	ASM2727296v1	Legionella pneumophila
+GCF_027272985.1	ASM2727298v1	Legionella pneumophila
+GCF_027273005.1	ASM2727300v1	Legionella pneumophila
+GCF_027273025.1	ASM2727302v1	Legionella pneumophila
+GCF_027273035.1	ASM2727303v1	Legionella pneumophila
+GCF_027273055.1	ASM2727305v1	Legionella pneumophila
+GCF_027273065.1	ASM2727306v1	Legionella pneumophila
+GCF_027273075.1	ASM2727307v1	Legionella pneumophila
+GCF_027273125.1	ASM2727312v1	Legionella pneumophila
+GCF_027273135.1	ASM2727313v1	Legionella pneumophila
+GCF_027273155.1	ASM2727315v1	Legionella pneumophila
+GCF_027273185.1	ASM2727318v1	Legionella pneumophila
+GCF_027273205.1	ASM2727320v1	Legionella pneumophila
+GCF_027273225.1	ASM2727322v1	Legionella pneumophila
+GCF_027273235.1	ASM2727323v1	Legionella pneumophila
+GCF_027273265.1	ASM2727326v1	Legionella pneumophila
+GCF_027273275.1	ASM2727327v1	Legionella pneumophila
+GCF_027273285.1	ASM2727328v1	Legionella pneumophila
+GCF_027273325.1	ASM2727332v1	Legionella pneumophila
+GCF_027273345.1	ASM2727334v1	Legionella pneumophila
+GCF_027273355.1	ASM2727335v1	Legionella pneumophila
+GCF_027273365.1	ASM2727336v1	Legionella pneumophila
+GCF_027273385.1	ASM2727338v1	Legionella pneumophila
+GCF_027273425.1	ASM2727342v1	Legionella pneumophila
+GCF_027273445.1	ASM2727344v1	Legionella pneumophila
+GCF_027273465.1	ASM2727346v1	Legionella pneumophila
+GCF_027273485.1	ASM2727348v1	Legionella pneumophila
+GCF_027273495.1	ASM2727349v1	Legionella pneumophila
+GCF_027273505.1	ASM2727350v1	Legionella pneumophila
+GCF_027286265.1	ASM2728626v1	Legionella pneumophila
+GCF_027286285.1	ASM2728628v1	Legionella pneumophila
+GCF_028554955.1	ASM2855495v1	Legionella pneumophila
+GCF_028566995.1	ASM2856699v1	Legionella pneumophila subsp. pneumophila
+GCF_029026145.1	ASM2902614v1	Legionella cardiaca
+GCF_029715605.1	ASM2971560v1	Legionella pneumophila
+GCF_029887695.1	ASM2988769v1	Legionella pneumophila
+GCF_029887705.1	ASM2988770v1	Legionella pneumophila
+GCF_029916725.1	ASM2991672v1	Legionella pneumophila str. Corby
+GCF_029929795.1	ASM2992979v1	Legionella pneumophila
+GCF_029929805.1	ASM2992980v1	Legionella pneumophila
+GCF_029929845.1	ASM2992984v1	Legionella pneumophila
+GCF_029929855.1	ASM2992985v1	Legionella pneumophila
+GCF_029929995.1	ASM2992999v1	Legionella pneumophila
+GCF_029930095.1	ASM2993009v1	Legionella pneumophila
+GCF_900048905.1	10771_1#30	Legionella pneumophila
+GCF_900048915.1	10060_4#36	Legionella pneumophila
+GCF_900048925.1	10771_3#5	Legionella pneumophila
+GCF_900048935.1	10771_3#6	Legionella pneumophila
+GCF_900048945.1	10625_2#25	Legionella pneumophila
+GCF_900048955.1	10625_3#24	Legionella pneumophila
+GCF_900048965.1	10625_2#84	Legionella pneumophila
+GCF_900049245.1	10771_1#79	Legionella pneumophila
+GCF_900049255.1	10771_3#25	Legionella pneumophila
+GCF_900049265.1	10771_3#26	Legionella pneumophila
+GCF_900049275.1	10771_3#90	Legionella pneumophila
+GCF_900049285.1	10625_3#54	Legionella pneumophila
+GCF_900049295.1	10625_3#53	Legionella pneumophila
+GCF_900049305.1	10625_3#52	Legionella pneumophila
+GCF_900049375.1	10625_2#77	Legionella pneumophila
+GCF_900050175.1	10771_1#21	Legionella pneumophila
+GCF_900050185.1	10771_1#25	Legionella pneumophila
+GCF_900050195.1	10771_1#54	Legionella pneumophila
+GCF_900050205.1	10771_1#58	Legionella pneumophila
+GCF_900050215.1	10771_1#59	Legionella pneumophila
+GCF_900050225.1	10771_3#60	Legionella pneumophila
+GCF_900050235.1	10771_1#37	Legionella pneumophila
+GCF_900050245.1	10625_2#82	Legionella pneumophila
+GCF_900050555.1	10771_3#91	Legionella pneumophila
+GCF_900050565.1	10625_2#4	Legionella pneumophila
+GCF_900050975.1	10396_8#34	Legionella pneumophila
+GCF_900050985.1	10060_4#82	Legionella pneumophila
+GCF_900050995.1	10771_3#69	Legionella pneumophila
+GCF_900051005.1	10625_3#94	Legionella pneumophila
+GCF_900051015.1	10771_3#74	Legionella pneumophila
+GCF_900051025.1	10625_3#65	Legionella pneumophila
+GCF_900051655.1	10771_1#1	Legionella pneumophila
+GCF_900051665.1	10771_1#40	Legionella pneumophila
+GCF_900051675.1	10771_1#57	Legionella pneumophila
+GCF_900051685.1	10771_3#8	Legionella pneumophila
+GCF_900051695.1	10771_1#67	Legionella pneumophila
+GCF_900051705.1	10771_1#49	Legionella pneumophila
+GCF_900051715.1	10771_3#32	Legionella pneumophila
+GCF_900051725.1	10208_4#86	Legionella pneumophila
+GCF_900051735.1	10625_2#26	Legionella pneumophila
+GCF_900051745.1	10625_2#81	Legionella pneumophila
+GCF_900051755.1	10625_3#79	Legionella pneumophila
+GCF_900052055.1	10060_4#24	Legionella pneumophila
+GCF_900052065.1	10771_1#43	Legionella pneumophila
+GCF_900052075.1	10771_1#9	Legionella pneumophila
+GCF_900052085.1	10771_1#18	Legionella pneumophila
+GCF_900052095.1	10771_3#13	Legionella pneumophila
+GCF_900052105.1	10625_2#3	Legionella pneumophila
+GCF_900052255.1	10771_1#23	Legionella pneumophila
+GCF_900052265.1	10771_1#11	Legionella pneumophila
+GCF_900052275.1	10060_4#88	Legionella pneumophila
+GCF_900052285.1	10625_2#58	Legionella pneumophila
+GCF_900052295.1	10625_2#56	Legionella pneumophila
+GCF_900052305.1	10625_2#1	Legionella pneumophila
+GCF_900052315.1	10625_2#5	Legionella pneumophila
+GCF_900052325.1	10625_3#35	Legionella pneumophila
+GCF_900052335.1	10625_3#19	Legionella pneumophila
+GCF_900052905.1	10771_1#12	Legionella pneumophila
+GCF_900052915.1	10771_1#3	Legionella pneumophila
+GCF_900052925.1	10771_1#41	Legionella pneumophila
+GCF_900052935.1	10771_3#15	Legionella pneumophila
+GCF_900052945.1	10625_2#87	Legionella pneumophila
+GCF_900053335.1	10771_1#2	Legionella pneumophila
+GCF_900053345.1	10771_1#20	Legionella pneumophila
+GCF_900053355.1	10060_4#48	Legionella pneumophila
+GCF_900053365.1	10771_1#6	Legionella pneumophila
+GCF_900053375.1	10771_3#57	Legionella pneumophila
+GCF_900053385.1	10625_2#8	Legionella pneumophila
+GCF_900053395.1	10625_2#9	Legionella pneumophila
+GCF_900053405.1	10625_2#12	Legionella pneumophila
+GCF_900053415.1	10060_4#56	Legionella pneumophila
+GCF_900053425.1	10625_3#4	Legionella pneumophila
+GCF_900053435.1	10625_2#95	Legionella pneumophila
+GCF_900053445.1	10625_3#26	Legionella pneumophila
+GCF_900053665.1	10771_1#7	Legionella pneumophila
+GCF_900053675.1	10771_3#3	Legionella pneumophila
+GCF_900053685.1	10771_1#45	Legionella pneumophila
+GCF_900053695.1	10771_1#16	Legionella pneumophila
+GCF_900053705.1	10060_4#95	Legionella pneumophila
+GCF_900053715.1	10625_2#11	Legionella pneumophila
+GCF_900053725.1	10625_2#46	Legionella pneumophila
+GCF_900053735.1	10625_2#47	Legionella pneumophila
+GCF_900053745.1	10625_3#71	Legionella pneumophila
+GCF_900054155.1	10771_3#92	Legionella pneumophila
+GCF_900054165.1	10625_3#57	Legionella pneumophila
+GCF_900054385.1	10771_1#31	Legionella pneumophila
+GCF_900054395.1	10771_1#29	Legionella pneumophila
+GCF_900054405.1	10771_1#50	Legionella pneumophila
+GCF_900054415.1	10625_2#59	Legionella pneumophila
+GCF_900054425.1	10625_2#2	Legionella pneumophila
+GCF_900054435.1	10625_3#84	Legionella pneumophila
+GCF_900054645.1	10625_3#14	Legionella pneumophila
+GCF_900054655.1	10625_3#44	Legionella pneumophila
+GCF_900054665.1	10625_3#41	Legionella pneumophila
+GCF_900054675.1	10625_3#42	Legionella pneumophila
+GCF_900054685.1	10625_3#50	Legionella pneumophila
+GCF_900054695.1	10625_3#78	Legionella pneumophila
+GCF_900055195.1	10625_2#27	Legionella pneumophila
+GCF_900055205.1	10625_2#29	Legionella pneumophila
+GCF_900055215.1	10625_3#13	Legionella pneumophila
+GCF_900055575.1	10771_1#69	Legionella pneumophila
+GCF_900055585.1	10771_3#83	Legionella pneumophila
+GCF_900055595.1	10625_2#18	Legionella pneumophila
+GCF_900055605.1	10625_3#11	Legionella pneumophila
+GCF_900055615.1	10625_2#80	Legionella pneumophila
+GCF_900055625.1	10625_3#2	Legionella pneumophila
+GCF_900055635.1	10625_3#38	Legionella pneumophila
+GCF_900056185.1	10625_2#43	Legionella pneumophila
+GCF_900056195.1	10625_2#78	Legionella pneumophila
+GCF_900056205.1	10625_3#48	Legionella pneumophila
+GCF_900056215.1	10625_3#47	Legionella pneumophila
+GCF_900056225.1	10625_3#64	Legionella pneumophila
+GCF_900056235.1	10625_3#70	Legionella pneumophila
+GCF_900056245.1	10625_3#66	Legionella pneumophila
+GCF_900056645.1	10771_1#51	Legionella pneumophila
+GCF_900056655.1	10771_1#53	Legionella pneumophila
+GCF_900056915.1	10771_1#34	Legionella pneumophila
+GCF_900056925.1	10771_3#24	Legionella pneumophila
+GCF_900056935.1	10625_2#68	Legionella pneumophila
+GCF_900056945.1	10625_2#67	Legionella pneumophila
+GCF_900057235.1	10771_1#35	Legionella pneumophila
+GCF_900057245.1	10771_1#75	Legionella pneumophila
+GCF_900057255.1	10396_8#30	Legionella pneumophila
+GCF_900057265.1	10625_3#23	Legionella pneumophila
+GCF_900057275.1	10625_3#76	Legionella pneumophila
+GCF_900057545.1	10771_1#38	Legionella pneumophila
+GCF_900057555.1	10060_4#55	Legionella pneumophila
+GCF_900057565.1	10771_3#58	Legionella pneumophila
+GCF_900057575.1	10625_2#74	Legionella pneumophila
+GCF_900057585.1	10625_2#70	Legionella pneumophila
+GCF_900057595.1	10625_3#5	Legionella pneumophila
+GCF_900057605.1	10625_3#56	Legionella pneumophila
+GCF_900057615.1	10396_8#33	Legionella pneumophila
+GCF_900057625.1	10625_3#62	Legionella pneumophila
+GCF_900057735.1	10771_1#46	Legionella pneumophila
+GCF_900057745.1	10771_1#77	Legionella pneumophila
+GCF_900057755.1	10771_3#22	Legionella pneumophila
+GCF_900057765.1	10625_2#19	Legionella pneumophila
+GCF_900057775.1	10625_2#20	Legionella pneumophila
+GCF_900057785.1	10625_3#7	Legionella pneumophila
+GCF_900058335.1	10625_2#41	Legionella pneumophila
+GCF_900058345.1	10625_2#36	Legionella pneumophila
+GCF_900058355.1	10625_3#83	Legionella pneumophila
+GCF_900058555.1	10771_3#2	Legionella pneumophila
+GCF_900058565.1	10771_3#18	Legionella pneumophila
+GCF_900058575.1	10771_3#19	Legionella pneumophila
+GCF_900058585.1	10625_2#49	Legionella pneumophila
+GCF_900058595.1	10625_2#54	Legionella pneumophila
+GCF_900058605.1	10625_2#90	Legionella pneumophila
+GCF_900058805.1	10771_1#10	Legionella pneumophila
+GCF_900058815.1	10060_4#83	Legionella pneumophila
+GCF_900058825.1	10625_3#31	Legionella pneumophila
+GCF_900058835.1	10625_2#75	Legionella pneumophila
+GCF_900058845.1	10625_3#68	Legionella pneumophila
+GCF_900058855.1	10625_3#73	Legionella pneumophila
+GCF_900058865.1	10625_3#72	Legionella pneumophila
+GCF_900059575.1	10771_3#29	Legionella pneumophila
+GCF_900059585.1	10060_4#81	Legionella pneumophila
+GCF_900059595.1	10625_3#34	Legionella pneumophila
+GCF_900059605.1	10625_3#45	Legionella pneumophila
+GCF_900059935.1	10771_3#14	Legionella pneumophila
+GCF_900059945.1	10060_4#86	Legionella pneumophila
+GCF_900059955.1	10771_3#20	Legionella pneumophila
+GCF_900059965.1	10771_1#4	Legionella pneumophila
+GCF_900059975.1	10060_4#84	Legionella pneumophila
+GCF_900059985.1	10625_2#39	Legionella pneumophila
+GCF_900059995.1	10771_3#70	Legionella pneumophila
+GCF_900060005.1	10625_2#62	Legionella pneumophila
+GCF_900060015.1	10625_3#27	Legionella pneumophila
+GCF_900060025.1	10625_3#92	Legionella pneumophila
+GCF_900060195.1	10771_1#26	Legionella pneumophila
+GCF_900060205.1	10771_1#14	Legionella pneumophila
+GCF_900060365.1	10771_1#92	Legionella pneumophila
+GCF_900060375.1	10771_3#17	Legionella pneumophila
+GCF_900060385.1	10771_3#27	Legionella pneumophila
+GCF_900060395.1	10625_2#17	Legionella pneumophila
+GCF_900060405.1	10625_2#21	Legionella pneumophila
+GCF_900060415.1	10625_2#69	Legionella pneumophila
+GCF_900060425.1	10625_2#76	Legionella pneumophila
+GCF_900060435.1	10625_2#71	Legionella pneumophila
+GCF_900060445.1	10625_2#64	Legionella pneumophila
+GCF_900060455.1	10625_3#15	Legionella pneumophila
+GCF_900060695.1	10771_3#10	Legionella pneumophila
+GCF_900060705.1	10771_3#11	Legionella pneumophila
+GCF_900060715.1	10771_1#85	Legionella pneumophila
+GCF_900060725.1	10771_1#87	Legionella pneumophila
+GCF_900060735.1	10771_1#89	Legionella pneumophila
+GCF_900060745.1	10771_3#23	Legionella pneumophila
+GCF_900060755.1	10625_2#22	Legionella pneumophila
+GCF_900060765.1	10625_2#44	Legionella pneumophila
+GCF_900060775.1	10625_3#58	Legionella pneumophila
+GCF_900060785.1	10625_2#83	Legionella pneumophila
+GCF_900060795.1	10625_3#82	Legionella pneumophila
+GCF_900061455.1	10771_1#33	Legionella pneumophila
+GCF_900061465.1	10771_1#39	Legionella pneumophila
+GCF_900061475.1	10771_3#4	Legionella pneumophila
+GCF_900061485.1	10771_1#8	Legionella pneumophila
+GCF_900061495.1	10771_1#22	Legionella pneumophila
+GCF_900061505.1	10771_1#17	Legionella pneumophila
+GCF_900061515.1	10060_4#63	Legionella pneumophila
+GCF_900061525.1	10771_1#68	Legionella pneumophila
+GCF_900061535.1	10771_1#70	Legionella pneumophila
+GCF_900061545.1	10060_4#71	Legionella pneumophila
+GCF_900061555.1	10060_4#72	Legionella pneumophila
+GCF_900061565.1	10771_1#76	Legionella pneumophila
+GCF_900061575.1	10771_3#12	Legionella pneumophila
+GCF_900061585.1	10060_4#93	Legionella pneumophila
+GCF_900061595.1	10771_3#21	Legionella pneumophila
+GCF_900061605.1	10771_3#35	Legionella pneumophila
+GCF_900061615.1	10771_3#62	Legionella pneumophila
+GCF_900061625.1	10771_3#59	Legionella pneumophila
+GCF_900061635.1	10771_3#49	Legionella pneumophila
+GCF_900061645.1	10771_3#76	Legionella pneumophila
+GCF_900061655.1	10771_3#78	Legionella pneumophila
+GCF_900061665.1	10771_3#81	Legionella pneumophila
+GCF_900061675.1	10771_3#82	Legionella pneumophila
+GCF_900061685.1	10771_3#84	Legionella pneumophila
+GCF_900061695.1	10771_3#85	Legionella pneumophila
+GCF_900061705.1	10396_8#35	Legionella pneumophila
+GCF_900061715.1	10396_8#36	Legionella pneumophila
+GCF_900061725.1	10396_8#37	Legionella pneumophila
+GCF_900061935.1	10625_2#52	Legionella pneumophila
+GCF_900061945.1	10625_2#23	Legionella pneumophila
+GCF_900061975.1	10771_3#1	Legionella pneumophila
+GCF_900062315.1	10771_3#9	Legionella pneumophila
+GCF_900062325.1	10625_2#38	Legionella pneumophila
+GCF_900062335.1	11787_1#12	Legionella pneumophila
+GCF_900062345.1	10625_2#7	Legionella pneumophila
+GCF_900062355.1	10625_2#40	Legionella pneumophila
+GCF_900062365.1	10625_2#42	Legionella pneumophila
+GCF_900062375.1	10625_2#50	Legionella pneumophila
+GCF_900062385.1	10625_2#51	Legionella pneumophila
+GCF_900062395.1	10625_2#57	Legionella pneumophila
+GCF_900062405.1	10625_2#10	Legionella pneumophila
+GCF_900062415.1	10625_3#55	Legionella pneumophila
+GCF_900062425.1	10625_2#30	Legionella pneumophila
+GCF_900062435.1	10625_2#31	Legionella pneumophila
+GCF_900062445.1	10625_2#32	Legionella pneumophila
+GCF_900062455.1	10625_2#34	Legionella pneumophila
+GCF_900062465.1	10625_3#1	Legionella pneumophila
+GCF_900062475.1	10625_2#37	Legionella pneumophila
+GCF_900062485.1	10625_2#45	Legionella pneumophila
+GCF_900062495.1	10771_3#39	Legionella pneumophila
+GCF_900062505.1	10060_4#64	Legionella pneumophila
+GCF_900062515.1	10771_3#40	Legionella pneumophila
+GCF_900062525.1	10208_4#73	Legionella pneumophila
+GCF_900062535.1	10625_3#6	Legionella pneumophila
+GCF_900062545.1	10625_3#22	Legionella pneumophila
+GCF_900062555.1	10625_3#9	Legionella pneumophila
+GCF_900062565.1	10625_3#12	Legionella pneumophila
+GCF_900062575.1	10625_3#8	Legionella pneumophila
+GCF_900062585.1	10625_2#73	Legionella pneumophila
+GCF_900062595.1	10625_2#92	Legionella pneumophila
+GCF_900062605.1	10625_2#88	Legionella pneumophila
+GCF_900062615.1	10625_2#86	Legionella pneumophila
+GCF_900062625.1	10625_3#59	Legionella pneumophila
+GCF_900062635.1	10625_2#65	Legionella pneumophila
+GCF_900062645.1	10625_2#72	Legionella pneumophila
+GCF_900062655.1	10625_3#33	Legionella pneumophila
+GCF_900062665.1	10625_2#89	Legionella pneumophila
+GCF_900062675.1	10625_2#66	Legionella pneumophila
+GCF_900062685.1	10625_2#93	Legionella pneumophila
+GCF_900062695.1	10625_3#3	Legionella pneumophila
+GCF_900062705.1	10625_3#39	Legionella pneumophila
+GCF_900062715.1	10625_2#91	Legionella pneumophila
+GCF_900062725.1	10625_3#17	Legionella pneumophila
+GCF_900062735.1	10625_2#94	Legionella pneumophila
+GCF_900062745.1	10625_3#29	Legionella pneumophila
+GCF_900062755.1	10625_3#16	Legionella pneumophila
+GCF_900062855.1	10771_3#37	Legionella pneumophila
+GCF_900062865.1	10625_2#60	Legionella pneumophila
+GCF_900062875.1	10625_3#93	Legionella pneumophila
+GCF_900063035.1	10771_1#47	Legionella pneumophila
+GCF_900063045.1	10771_1#19	Legionella pneumophila
+GCF_900063055.1	10771_1#27	Legionella pneumophila
+GCF_900063065.1	10771_1#44	Legionella pneumophila
+GCF_900063075.1	10625_2#6	Legionella pneumophila
+GCF_900063085.1	10625_2#28	Legionella pneumophila
+GCF_900063095.1	10625_2#33	Legionella pneumophila
+GCF_900063105.1	10625_2#13	Legionella pneumophila
+GCF_900063115.1	10625_2#85	Legionella pneumophila
+GCF_900063125.1	10625_3#46	Legionella pneumophila
+GCF_900063135.1	10625_3#18	Legionella pneumophila
+GCF_900063145.1	10625_3#43	Legionella pneumophila
+GCF_900063785.1	10771_1#42	Legionella pneumophila
+GCF_900063795.1	10771_1#32	Legionella pneumophila
+GCF_900063805.1	10771_3#89	Legionella pneumophila
+GCF_900063815.1	10771_3#94	Legionella pneumophila
+GCF_900063825.1	10625_2#16	Legionella pneumophila
+GCF_900063835.1	10625_2#79	Legionella pneumophila
+GCF_900063845.1	10625_3#36	Legionella pneumophila
+GCF_900063855.1	10625_3#28	Legionella pneumophila
+GCF_900063865.1	10625_3#25	Legionella pneumophila
+GCF_900063875.1	10625_3#20	Legionella pneumophila
+GCF_900063885.1	10625_3#32	Legionella pneumophila
+GCF_900063895.1	10625_3#51	Legionella pneumophila
+GCF_900063905.1	10625_3#60	Legionella pneumophila
+GCF_900063915.1	10625_3#61	Legionella pneumophila
+GCF_900063925.1	10625_3#91	Legionella pneumophila
+GCF_900063935.1	10625_3#85	Legionella pneumophila
+GCF_900064175.1	10771_1#73	Legionella pneumophila
+GCF_900064185.1	10625_2#15	Legionella pneumophila
+GCF_900064195.1	10625_2#48	Legionella pneumophila
+GCF_900064205.1	10625_3#49	Legionella pneumophila
+GCF_900064315.1	10625_3#30	Legionella pneumophila
+GCF_900064325.1	10625_3#37	Legionella pneumophila
+GCF_900064335.1	10625_3#75	Legionella pneumophila
+GCF_900064345.1	10625_3#67	Legionella pneumophila
+GCF_900064355.1	10625_3#69	Legionella pneumophila
+GCF_900064365.1	10625_3#81	Legionella pneumophila
+GCF_900064375.1	10625_3#80	Legionella pneumophila
+GCF_900064385.1	10625_3#88	Legionella pneumophila
+GCF_900064485.1	10625_2#35	Legionella pneumophila
+GCF_900064495.1	10625_2#61	Legionella pneumophila
+GCF_900064715.1	10771_1#60	Legionella pneumophila
+GCF_900064725.1	10771_3#34	Legionella pneumophila
+GCF_900064735.1	10625_2#55	Legionella pneumophila
+GCF_900064745.1	10625_2#14	Legionella pneumophila
+GCF_900064755.1	10625_3#10	Legionella pneumophila
+GCF_900064765.1	10625_3#21	Legionella pneumophila
+GCF_900065305.1	10208_4#36	Legionella pneumophila
+GCF_900065315.1	10771_3#38	Legionella pneumophila
+GCF_900065435.1	10771_1#52	Legionella pneumophila
+GCF_900065445.1	10625_3#77	Legionella pneumophila
+GCF_900065895.1	10625_2#24	Legionella pneumophila
+GCF_900065905.1	10625_3#63	Legionella pneumophila
+GCF_900065915.1	10625_3#74	Legionella pneumophila
+GCF_900070125.1	10208_4#29	Legionella pneumophila
+GCF_900070135.1	10060_4#75	Legionella pneumophila
+GCF_900070145.1	10060_4#33	Legionella pneumophila
+GCF_900070155.1	10060_4#69	Legionella pneumophila
+GCF_900070165.1	10060_4#92	Legionella pneumophila
+GCF_900070185.1	10060_4#27	Legionella pneumophila
+GCF_900073005.1	93355_H034700617_1	Legionella pneumophila
+GCF_900073025.1	36338_H034980467-1	Legionella pneumophila
+GCF_900073035.1	36396_NCTC_11191	Legionella pneumophila
+GCF_900073045.1	60025_H034680033-2	Legionella pneumophila
+GCF_900073055.1	36337_H034800427-1	Legionella pneumophila
+GCF_900092465.1	Lpm7613 v1	Legionella pneumophila
+GCF_900101805.1	IMG-taxon 2599185260 annotated assembly	Legionella israelensis DSM 19235
+GCF_900102325.1	IMG-taxon 2596583693 annotated assembly	Tatlockia micdadei
+GCF_900108145.1	IMG-taxon 2599185259 annotated assembly	Legionella quinlivanii DSM 21216
+GCF_900114725.1	IMG-taxon 2600255316 annotated assembly	Legionella jamestowniensis DSM 19215
+GCF_900119755.1	2531STDY5467379	Legionella pneumophila
+GCF_900119765.1	2532STDY5467631	Legionella pneumophila
+GCF_900119775.1	2531STDY5467446	Legionella pneumophila
+GCF_900119785.1	2531STDY5467415	Legionella pneumophila
+GCF_900156395.1	IMG-taxon 2681812897 annotated assembly	Fluoribacter gormanii
+GCF_900167045.1	IMG-taxon 2585428143 annotated assembly	Legionella maceachernii
+GCF_900186855.1	48290_H02	Legionella pneumophila
+GCF_900186925.1	48450_B02	Legionella pneumophila
+GCF_900186965.1	50592_C01	Legionella spiritensis
+GCF_900187095.1	51699_A01	Legionella waltersii
+GCF_900187355.1	51342_E02	Legionella lansingensis
+GCF_900450575.1	48853_H02	Legionella bozemanae
+GCF_900450695.1	48903_A01	Fluoribacter dumoffii
+GCF_900450965.1	48903_B01	Fluoribacter gormanii
+GCF_900452375.1	54424_F01	Legionella geestiana
+GCF_900452385.1	45813_G02	Legionella donaldsonii
+GCF_900452395.1	50618_B01	Legionella beliardensis
+GCF_900452415.1	51485_D01	Legionella cincinnatiensis
+GCF_900452475.1	50884_B01	Legionella feeleii
+GCF_900452515.1	51184_B02	Legionella birminghamensis
+GCF_900452545.1	53550_A01	Legionella gratiana
+GCF_900452565.1	34347_D01	Legionella hackeliae
+GCF_900452605.1	50592_E01	Legionella israelensis
+GCF_900452645.1	45076_E02	Legionella pneumophila
+GCF_900452655.1	45813_F02	Legionella pneumophila
+GCF_900452675.1	54332_D01	Legionella pneumophila
+GCF_900452685.1	45214_E02	Legionella pneumophila
+GCF_900452695.1	56279_B01	Legionella quateirensis
+GCF_900452705.1	45889_B01	Legionella pneumophila
+GCF_900452715.1	51342_H02	Legionella moravica
+GCF_900452735.1	34410_A01	Legionella pneumophila
+GCF_900452755.1	51670_D01	Legionella londiniensis
+GCF_900452765.1	45232_B01	Legionella pneumophila
+GCF_900452775.1	45214_D02	Legionella pneumophila
+GCF_900452805.1	45532_C01	Legionella pneumophila
+GCF_900452825.1	34347_E01	Legionella pneumophila
+GCF_900452835.1	50592_D01	Legionella steigerwaltii
+GCF_900452865.1	50618_H01	Legionella taurinensis
+GCF_900452925.1	42650_E02	Legionella wadsworthii
+GCF_900453045.1	52465_G01	Legionella worsleiensis
+GCF_900460175.1	50592_A01	Legionella maceachernii
+GCF_900461525.1	50618_A02	Legionella busanensis
+GCF_900461535.1	45232_D01	Legionella pneumophila
+GCF_900461545.1	45232_C01	Legionella pneumophila
+GCF_900461555.1	51485_A02	Legionella quinlivanii
+GCF_900461565.1	34347_C01	Legionella feeleii
+GCF_900461585.1	51485_C01	Legionella parisiensis
+GCF_900461605.1	45076_F02	Legionella pneumophila
+GCF_900475735.1	45813_H02	Legionella pneumophila
+GCF_900475745.1	45532_D01	Legionella pneumophila subsp. pascullei
+GCF_900492715.1	L_h_138642	Legionella sainthelensi
+GCF_900492725.1	L_h_138295	Legionella sainthelensi
+GCF_900635115.1	34410_A02	Legionella pneumophila
+GCF_900635815.1	34347_B01	Legionella cherrii
+GCF_900635825.1	34347_F01	Legionella pneumophila
+GCF_900635835.1	34410_B02	Legionella sainthelensi
+GCF_900636955.1	45813_E02	Legionella pneumophila
+GCF_900637495.1	51342_D02	Legionella spiritensis
+GCF_900637585.1	52067_F01	Legionella pneumophila subsp. pascullei
+GCF_900637635.1	52313_A01	Legionella jordanis
+GCF_900637685.1	52451_A01	Legionella sainthelensi
+GCF_900637865.1	52683_G03	Legionella adelaidensis
+GCF_900639755.1	Leg_feeleii_WO-44C.v1	Legionella feeleii
+GCF_900639765.1	Leg_busanensis_BAA518.v1	Legionella busanensis
+GCF_900639775.1	Leg_birminghamensis_1407-AL-H.v1	Legionella birminghamensis
+GCF_900639785.1	Leg_anisa_WA-316-C3.v1	Legionella anisa
+GCF_900639795.1	Leg_brunensis_441-1.v1	Legionella brunensis
+GCF_900639805.1	Leg_geestiana_1308.v1	Legionella geestiana
+GCF_900639815.1	Leg_cincinnatiensis_72-OH-0.v1	Legionella cincinnatiensis
+GCF_900639825.1	Leg_beliardensis_Wilkinson_1407-AL-H.v1	Legionella beliardensis
+GCF_900639835.1	Leg_adelaidensis_1762-AUS-E.v1	Legionella adelaidensis
+GCF_900639845.1	Leg_erythra_SE-32A-C8.v1	Legionella erythra
+GCF_900639855.1	Leg_gratiana_Lyon_8420412.v1	Legionella gratiana
+GCF_900639865.1	Leg_gresilensis_Greoux_11D13.v1	Legionella gresilensis
+GCF_900639875.1	Leg_impletisoli_OA1-1.v1	Legionella impletisoli
+GCF_900639885.1	Leg_londiniensis_1477.v1	Legionella londiniensis
+GCF_900639895.1	Leg_jordanis_Gorman_BL-540.v1	Legionella jordanis
+GCF_900639905.1	Leg_maceachernii_Gorman_PX-1-G2-E2.v1	Legionella maceachernii
+GCF_900639915.1	Leg_nagasakiensis_JCM_15315.v1	Legionella nagasakiensis
+GCF_900639925.1	Leg_parisiensis_PF-209C-C2.v1	Legionella parisiensis
+GCF_900639935.1	Leg_nautarum_1224.v1	Legionella nautarum
+GCF_900639945.1	Leg_pneumophila_Brown_U8W.v1	Legionella pneumophila subsp. pascullei
+GCF_900639955.1	Leg_spiritensis_Bibb_HSH-9.v1	Legionella spiritensis
+GCF_900639965.1	Leg_pneumophila_Los_Angeles_1.v1	Legionella pneumophila subsp. fraseri
+GCF_900639975.1	Leg_santicrucis_SC-63-C7.v1	Legionella santicrucis
+GCF_900639985.1	Leg_rowbothamii_LLAP6.v1	Legionella rowbothamii
+GCF_900639995.1	Leg_quinlivanii_1442-AUS-E.v1	Legionella quinlivanii
+GCF_900640005.1	Leg_quateirensis_Thacker_1335.v1	Legionella quateirensis
+GCF_900640015.1	Leg_rubrilucens_WA-270A-C2.v1	Legionella rubrilucens
+GCF_900640025.1	Leg_steigerwaltii_SC-18-C9.v1	Legionella steigerwaltii
+GCF_900640035.1	Leg_tucsonensis_1087-AZ-H.v1	Legionella tucsonensis
+GCF_900640045.1	Leg_wadsworthii_81-716.v1	Legionella wadsworthii
+GCF_900640055.1	Leg_waltersii_2074-AUS-E.v1	Legionella waltersii
+GCF_900640065.1	Leg_taurinensis_Turin_I.v1	Legionella taurinensis
+GCF_900640075.1	Leg_drozanskii_LLAP-1.v1	Legionella drozanskii LLAP-1
+GCF_900640085.1	Leg_cherrii_ORW.v1	Legionella cherrii
+GCF_900640095.1	Leg_gormanii_LS-13.v1	Fluoribacter gormanii
+GCF_900640105.1	Leg_gormanii_03-69.v1	Fluoribacter gormanii
+GCF_900640115.1	Leg_yabuuchiae_OA1-2.v1	Legionella yabuuchiae
+GCF_900640125.1	Leg_fairfieldensis_1725-Aus-E.v1	Legionella fairfieldensis
+GCF_900640135.1	Leg_bozemanae_WIGA.v1	Legionella bozemanae
+GCF_900640145.1	Leg_israelensis_Bercovier_4.v1	Legionella israelensis
+GCF_900640155.1	Leg_bozemanae_94163278.v1	Legionella bozemanae
+GCF_900640165.1	Leg_moravica_316-86.v1	Legionella moravica
+GCF_900640175.1	Leg_sp_W10-070.v1	Legionella sp. W10-070
+GCF_900640185.1	Leg_sainthelensi_MSH-4.v1	Legionella sainthelensi
+GCF_900640195.1	Leg_lansingensis_1677-MI-H.v1	Legionella lansingensis
+GCF_900640205.1	Leg_jamestowniensis_JA-26-G1-E2.v1	Legionella jamestowniensis
+GCF_900640215.1	Leg_sp_2055-AUS-E.v1	Legionella genomosp. 1

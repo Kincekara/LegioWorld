@@ -3,7 +3,7 @@ version 1.0
 task fetch_reference {
   input {
     String taxon
-    String docker = "kincekara/ncbi_datasets:v14.26.0"
+    String docker = "kincekara/ncbi_datasets:v14.27.0"
   }
 
   command <<<
@@ -27,7 +27,7 @@ task fetch_reference {
 
   runtime {
       docker: "~{docker}"
-      memory: "256 MB"
+      memory: "4 GB"
       cpu: 1
       disks: "local-disk 100 SSD"
       preemptible:  0
@@ -39,7 +39,7 @@ task download {
   input {
     String accession
     String prefix = "reference"  
-    String docker = "kincekara/ncbi_datasets:v14.26.0"
+    String docker = "kincekara/ncbi_datasets:v14.27.0"
   }
 
   command <<<
@@ -64,8 +64,8 @@ task download {
 
   runtime {
     docker: "~{docker}"
-    memory: "256 MB"
-    cpu: 1
+    memory: "16 GB"
+    cpu: 4
     disks: "local-disk 100 SSD"
     preemptible:  0
   }
@@ -73,21 +73,21 @@ task download {
 
 task download_list {
   input {
-    File accessions_list
+    File dataset
     String prefix = "reference" 
-    String docker = "kincekara/ncbi_datasets:v14.26.0"
+    String docker = "kincekara/ncbi_datasets:v14.27.0"
   }
 
   command <<<
     # version
     datasets version | cut -d " " -f3 > VERSION
     # download seqs
-    accs=$(cat "~{accessions_list}" | tr -d '\r' | tr '\n' ' ')
-    datasets download genome accession $accs
+    awk -F "\t" 'NR>1 {print $1}' ~{dataset} > inputfile.txt
+    datasets download genome accession --inputfile inputfile.txt
     unzip ncbi_dataset.zip
     cd ncbi_dataset
     find . -name "*genomic.fna" -exec mv {} . \;
-    tar -czvf "../~{prefix}.tar.gz" *genomic.fna
+    tar -I pigz -cvf "../~{prefix}.tar.gz" *genomic.fna
     # clean up
     cd ..
     rm -rf ncbi_dataset
@@ -101,8 +101,8 @@ task download_list {
 
   runtime {
     docker: "~{docker}"
-    memory: "256 MB"
-    cpu: 1
+    memory: "32 GB"
+    cpu: 16
     disks: "local-disk 100 SSD"
     preemptible:  0
   }

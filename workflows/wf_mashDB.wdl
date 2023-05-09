@@ -12,7 +12,7 @@ workflow mashDB {
   }
 
   input {
-  File accessions_list
+  File dataset
   String? db_name = "reference"  
   Int? kmer = 25
   Int? sketch_size = 100000
@@ -24,7 +24,7 @@ workflow mashDB {
   
   call datasets.download_list {
     input:
-      accessions_list = accessions_list         
+      dataset = dataset      
   }  
 
   call mash.generate_db {
