@@ -5,3 +5,10 @@ workflows:
    primaryDescriptorPath: /workflows/wf_mashDB.wdl
    testParameterFiles:
     - empty.json
+
+workflows:
+ - name: Legionella_Identification
+   subclass: WDL
+   primaryDescriptorPath: /workflows/wf_legioID.wdl
+   testParameterFiles:
+    - empty.json
