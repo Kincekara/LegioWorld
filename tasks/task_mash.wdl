@@ -94,12 +94,17 @@ task screen_reads {
 
     # parse results
     sort -gr ~{samplename}.screen.tsv > ~{samplename}.mash.sorted.tsv
-    taxon=$(awk -F "\t" 'NR==1 {print $6}' ~{samplename}.mash.sorted.tsv | cut -d " " -f4,5)
+    str=$(awk -F "\t" 'NR==1 {print $6}' ~{samplename}.mash.sorted.tsv)
+    if [[ ${str:0:1} == "[" ]]
+      then 
+        taxon=$(echo $str | cut -d " " -f4,5)
+      else 
+        taxon=$(echo $str | cut -d " " -f2,3)
+    fi
     echo $taxon > TAXON
     ratio=$(awk -F "\t" 'NR==1 {printf "%.2f\n",$1*100}' ~{samplename}.mash.sorted.tsv)
     echo $ratio > RATIO
-    printf "$taxon\t$ratio\n" > ~{samplename}.top_taxon.tsv
-      
+    printf "$taxon\t$ratio\n" > ~{samplename}.top_taxon.tsv      
   >>>
 
   output {
