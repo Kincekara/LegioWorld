@@ -71,6 +71,7 @@ workflow legioID {
     String? phiX_ratio = bbduk.phix_ratio
     # Mash    
     String? taxon_reads = screen_reads.taxon
-    Float? taxon_reads_percent = screen_reads.ratio    
+    Float? taxon_reads_percent = screen_reads.ratio
+    File? reads_screen_result = screen_reads.screen   
   }
 }
